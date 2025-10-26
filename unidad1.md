@@ -8,7 +8,8 @@
 - Reflexión crítica de los aprendizajes.
 
 ## Ejemplos
- [Algoritmo de cálculo de masa del aire](unidad1/algoritmo_masa.psc)
+- [Algoritmo de cálculo de masa del aire](unidad1/algoritmo_masa.psc)
+ (pseudocódigo)
 - [Algoritmo en C — Cálculo de la masa del aire](unidad1/algoritmo_masa.c)
  (pseudocódigo)
 - `ejemplos/diagrama1.png` (diagrama de flujo)
