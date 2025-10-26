@@ -12,7 +12,7 @@
  (pseudocódigo)
 - [Algoritmo en C — Cálculo de la masa del aire](unidad1/algoritmo_masa.c)
  (pseudocódigo)
-- `ejemplos/diagrama1.png` (diagrama de flujo)
+- ![Diagrama de flujo del algoritmo](unidad1/diagrama_masa.png) (diagrama de flujo)
 
 ---
 
