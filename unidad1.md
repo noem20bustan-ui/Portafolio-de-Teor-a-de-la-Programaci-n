@@ -23,8 +23,7 @@
 ---
 
 ## Principales dificultades detectadas
-1. [Describe dificultades concretas]
-2. [Errores frecuentes al traducir pseudocódigo a código]
+Una de las principales dificultades al trabajar con algoritmos, pseudocódigo y diagramas de flujo es pasar del pensamiento lógico al lenguaje de máquina. Resulta fácil comprender la idea general del problema, incluso escribir los pasos para resolverlo, pero al intentar pasarlos dentro del programa, surgen errores de declaración de los tipos de datos, mal uso o omisión delimitadores (como comillas y comas) y operadores (o símbolos)."
 
 ## Reflexión crítica
 Aquí incluyo mi reflexión sobre lo aprendido, qué salió bien, qué falta practicar y cómo aplicaré estos conocimientos en futuros proyectos.
