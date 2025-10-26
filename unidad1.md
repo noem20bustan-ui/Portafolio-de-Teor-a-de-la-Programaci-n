@@ -28,3 +28,12 @@ Una de las principales dificultades al trabajar con algoritmos, pseudocódigo y 
 ## Reflexión crítica
 Aquí incluyo mi reflexión sobre lo aprendido, qué salió bien, qué falta practicar y cómo aplicaré estos conocimientos en futuros proyectos.
 
+---
+
+## Tareas entregadas
+
+- **Herramientas de algoritmos:** pseudocódigo y diagramas de flujo.  
+- **Instalación de lenguajes de programación:** C, Python o Java.  
+- **Primer acercamiento:** construcción de algoritmos con estructuras secuenciales en pseudocódigo.  
+- **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa.**
+
