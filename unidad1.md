@@ -8,7 +8,7 @@
 - Reflexión crítica de los aprendizajes.
 
 
-## Contenidos de la Unidad
+## Algoritmos, pseudocódigo, diagrama de flujo.
 - [Ver archivo en Google Drive](https://drive.google.com/file/d/1bhzSMOnVT9kwiFOQIX-w8wIzkkkRe_pD/view?usp=sharing)
 
 ---
