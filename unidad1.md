@@ -4,12 +4,13 @@
 - Algoritmos, pseudocódigo, diagrama de flujo.
 - Programación por bloques.
 - Ejemplos de algoritmos con estructuras lineales/secuenciales:
-  - [Algoritmo de cálculo de masa del aire](unidad1/algoritmo_masa.psc)
 - Principales dificultades en la aplicación.
 - Reflexión crítica de los aprendizajes.
 
 ## Ejemplos
-- `ejemplos/ejemplo1.md` (pseudocódigo)
+ [Algoritmo de cálculo de masa del aire](unidad1/algoritmo_masa.psc)
+- [Algoritmo en C — Cálculo de la masa del aire](unidad1/algoritmo_masa.c)
+ (pseudocódigo)
 - `ejemplos/diagrama1.png` (diagrama de flujo)
 
 ---
