@@ -62,10 +62,55 @@ Son una excelente herramienta didáctica, ya que combinan la lógica del pensami
 ---
 
 ## 🔹 Programación por Bloques
-📄 **Conceptos :**  
-➡️ [Ver documento](https://drive.google.com/file/d/1oU-G5rXyQsmIFIJFI-UtW0-rc7aLZY21/view?usp=sharing)
+## 📄 Conceptos
 
 ---
+
+### 🪄 Introducción
+Para muchas personas, comenzar a programar puede resultar complicado debido a la cantidad de reglas y símbolos que requieren los lenguajes tradicionales.  
+
+La **programación por bloques** surge como una solución a este problema. Su objetivo principal es hacer más fácil el primer acercamiento a la programación, permitiendo que los estudiantes se centren en cómo resolver problemas antes de aprender la sintaxis de un lenguaje de código [1].
+
+---
+
+### 🧩 ¿Qué es la Programación por Bloques?
+La programación por bloques es formar algoritmos mediante piezas visuales, como si fuera un rompecabezas, que representan acciones o instrucciones.  
+
+Para crear un programa o algoritmo, una persona solo debe arrastrar y unir estos bloques siguiendo un orden lógico.  
+Estos bloques están diseñados para encajar entre sí de forma lógica, evitando errores [1].
+
+Por ejemplo, si usamos la aplicación **Scratch**, los bloques están divididos por colores y acciones específicas como *mover*, *aparecer*, *emitir sonido*, etc. [2].  
+
+Además, herramientas como Scratch permiten combinar código visual con imágenes, sonidos, personajes y animaciones, lo que motiva a los estudiantes a crear proyectos interactivos y creativos.
+
+---
+
+### 🌟 Ventajas de la Programación por Bloques
+Entre las principales ventajas se encuentran:
+
+- **Aprendizaje fácil y directo.**  
+  Los estudiantes comprenden más rápido las ideas centrales de la programación porque pueden ver de forma visual cómo se construye una solución.  
+  Esto es útil para enseñar a los niños programación [1].
+
+- **Evita frustraciones.**  
+  Al no existir errores de sintaxis, los estudiantes pueden concentrarse en el razonamiento y no en detalles técnicos del lenguaje [1].
+
+- **Creatividad.**  
+  Actividades con bloques suelen ser percibidas como divertidas y permiten crear juegos, animaciones o historias, lo cual hace que el aprendizaje se vuelva fácil y atractivo [2].
+
+---
+
+### ⚠️ Desventajas y Dificultades
+Sin embargo, también existen algunas limitaciones:
+
+- **Complejidad creciente.**  
+  Aunque es útil para iniciar, muchos estudiantes encuentran más difícil aplicar estructuras como las condiciones o repeticiones más avanzadas cuando el nivel de dificultad aumenta [1].
+
+- **No siempre es suficiente para proyectos complejos.**  
+  Algunas tareas requieren manejar hardware, operadores o estructuras más técnicas, y no todos los estudiantes logran dominarlas fácilmente dentro de estos entornos [2].
+
+---
+
 
 ## 🧪 Ejemplos Prácticos
 
