@@ -32,7 +32,11 @@
 Una de las principales dificultades al trabajar con algoritmos, pseudocódigo y diagramas de flujo es pasar del pensamiento lógico al lenguaje de máquina. Resulta fácil comprender la idea general del problema, incluso escribir los pasos para resolverlo, pero al intentar pasarlos dentro del programa, surgen errores de declaración de los tipos de datos, mal uso o omisión delimitadores (como comillas y comas) y operadores (o símbolos)."
 
 ## Reflexión crítica
-Aquí incluyo mi reflexión sobre lo aprendido, qué salió bien, qué falta practicar y cómo aplicaré estos conocimientos en futuros proyectos.
+Durante esta unidad de teoría de la programación, pude comprender que para programa se necesita pensar de forma lógica. Que para saber resolver un problema en lenguaje de programación se tiene que hacer uso del pseucodigo para definir variables, organizar datos y soluciones de un problema .Además también se tiene que seguir reglas , hacer uso de la buena practica para que el código se vea ordenado y limpio y realizar pruebas de escritorio para optimizan el tiempo, ya que esto nos permite ver errores en la resolución del problema antes de ejecutarlo en algún programa.
+
+Considero que lo que salió bien fue mi capacidad para identificar la forma de resolver los errores que aparecían en la ejecución del código, también entender con rapidez cómo funciona un lenguaje de programación, esto me permitió representar procesos de manera más clara y sentir mayor confianza al avanzar con los ejercicios.
+
+Sin embargo, todavía necesito practicar más en la traducción del pseudocódigo hacia un lenguaje de programación, ya que en ocasiones me cuesta elegir las instrucciones adecuadas o recordar la sintaxis correspondiente. 
 
 ---
 
