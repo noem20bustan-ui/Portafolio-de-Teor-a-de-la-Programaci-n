@@ -1,18 +1,18 @@
 # 🏫 **Nombre de la Institución**
 
-## 💼 *Nombre de la Carrera*
+## 💼 *Computacion*
 ### 📚 Asignatura: **Teoría de la Programación**
 ### 🎓 Ciclo: *X*
-### 🗓️ Período Académico: *202X - 202X*
+### 🗓️ Período Académico: *2025 - 2026*
 
 ---
 
 ### 👨‍🏫 Docente:
-**Nombre del docente**
+** Ing. Lissette Geoconda López**
 
 ### 👨‍🎓 Estudiante:
-**Nombre del estudiante**  
-**Correo institucional:** nombre@institucion.edu.ec
+**Noelia Bustán**  
+**Correo institucional:** noeliabustan@unl.edu.ec
 
 ---
 
@@ -22,10 +22,10 @@
 👉 [Ir a Unidad 1](unidad1.md)
 
 ## 🧮 Unidad 2: Estructuras y Control de Flujo
-👉 [Ir a Unidad 2](unidad2.md)
+👉 [Ir a Unidad 2]()
 
 ## 🧠 Unidad 3: Funciones, Arreglos y Modularidad
-👉 [Ir a Unidad 3](unidad3.md)
+👉 [Ir a Unidad 3]()
 
 ---
 
@@ -34,4 +34,4 @@
 ## 📚 Referencias
 
 ## 🤖 Uso de la IA Generativa
-
+**En este trabajo se uso la herramienta: ChatGPT*  
