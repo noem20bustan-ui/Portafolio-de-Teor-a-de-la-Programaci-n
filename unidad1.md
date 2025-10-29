@@ -12,8 +12,14 @@
 - [Definiciones](https://drive.google.com/file/d/1bhzSMOnVT9kwiFOQIX-w8wIzkkkRe_pD/view?usp=sharing)
 
 ---
-  
+
+  ## Programacon por bloques.
+- [Definiciones](https://drive.google.com/file/d/1oU-G5rXyQsmIFIJFI-UtW0-rc7aLZY21/view?usp=sharing)
+
+---
 ## Ejemplos
+- [Algoritmo de cálculo de masa del aire](unidad1/algoritmo_masa.psc)
+ (pseudocódigo)
 - [Algoritmo de cálculo de masa del aire](unidad1/algoritmo_masa.psc)
  (pseudocódigo)
 - [Algoritmo en C — Cálculo de la masa del aire](unidad1/algoritmo_masa.c)
