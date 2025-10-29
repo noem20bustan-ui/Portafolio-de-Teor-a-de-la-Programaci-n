@@ -1,38 +1,59 @@
-# 🏫 **Universidad Nacional De Loja**
+<div align="center">
 
-## 💼 *Computacion*
-### 📚 Asignatura: **Teoría de la Programación**
-### 🎓 Ciclo: *primero*
-### 🗓️ Período Académico: *2025 - 2026*
+# 🏫 **Universidad Nacional de Loja**
+### Facultad de la Energía, las Industrias y los Recursos Naturales no Renovables  
+### Carrera de **Computación**
+
+---
+
+## 📚 **Portafolio Digital de Aprendizaje**  
+### Asignatura: **Teoría de la Programación**
+### 🎓 Ciclo: **Primero**
+### 🗓️ Período Académico: **2025 - 2026**
 
 ---
 
 ### 👨‍🏫 Docente:
 **Ing. Lissette Geoconda López**
 
-### 👨‍🎓 Estudiante:
+### 👩‍🎓 Estudiante:
 **Noelia Bustán**  
-**Correo institucional:** noeliabustan@unl.edu.ec
+✉️ *noeliabustan@unl.edu.ec*
 
 ---
 
-# 💻 **Portafolio Digital de Aprendizaje**
+</div>
 
-## 🧩 Unidad 1: Fundamentos de la Programación
-👉 [Ir a Unidad 1](unidad1.md)
+---
 
-## 🧮 Unidad 2: Estructuras y Control de Flujo
-👉 [Ir a Unidad 2]()
+## 💻 Contenido del Portafolio
 
-## 🧠 Unidad 3: Funciones, Arreglos y Modularidad
-👉 [Ir a Unidad 3]()
+| Unidad | Tema | Enlace |
+|-------|------|--------|
+| 🧩 Unidad 1 | Fundamentos de la Programación | 👉 [Ver Unidad 1](unidad1.md) |
+| 🧮 Unidad 2 | Estructuras y Control de Flujo | 👉 *Próximamente* |
+| 🧠 Unidad 3 | Funciones, Arreglos y Modularidad | 👉 *Próximamente* |
 
 ---
 
 ## 🧾 Conclusiones
+*Las conclusiones se desarrollarán al finalizar todas las unidades del portafolio.*
+
+---
 
 ## 📚 Referencias
-[Ir a referencias](referencias/Referencias.pdf)
+📄 [Ver archivo de referencias](referencias/Referencias.pdf)
+
+---
 
 ## 🤖 Uso de la IA Generativa
-**En este trabajo se uso la herramienta: ChatGPT*  
+Este portafolio fue realizado con apoyo de **ChatGPT** para mejorar la redacción, estructura y presentación visual del contenido.
+
+---
+
+<div align="center">
+
+✨ *Universidad Nacional de Loja — Comprometidos con la excelencia* ✨
+
+</div>
+
