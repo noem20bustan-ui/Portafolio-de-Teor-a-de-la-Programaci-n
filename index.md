@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍🏫 Docente:
-** Ing. Lissette Geoconda López**
+**Ing. Lissette Geoconda López**
 
 ### 👨‍🎓 Estudiante:
 **Noelia Bustán**  
