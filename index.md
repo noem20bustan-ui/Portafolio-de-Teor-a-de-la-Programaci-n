@@ -1,4 +1,4 @@
-# 🏫 **Nombre de la Institución**
+# 🏫 **Universidad Nacional De Loja**
 
 ## 💼 *Computacion*
 ### 📚 Asignatura: **Teoría de la Programación**
