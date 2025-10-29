@@ -2,7 +2,7 @@
 
 ## 💼 *Computacion*
 ### 📚 Asignatura: **Teoría de la Programación**
-### 🎓 Ciclo: *X*
+### 🎓 Ciclo: *primero*
 ### 🗓️ Período Académico: *2025 - 2026*
 
 ---
