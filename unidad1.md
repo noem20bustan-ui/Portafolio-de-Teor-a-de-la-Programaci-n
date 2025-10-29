@@ -27,7 +27,7 @@
 |------------|----------------|
 | Programación por bloques en Scratch (Parte 1) | ![](unidad1/perritoScratch.png) |
 | Programación por bloques en Scratch (Parte 2) | ![](unidad1/perritoScratch_cambio_deFondo.png) |
-| Algoritmo en pseudocódigo – Cálculo de la masa del aire | [`algoritmo_masa.psc`](unidad1/algoritmo_masa.psc) |
+| Algoritmo en pseudocódigo – Cálculo de la masa del aire | [`algoritmo_masa.psc`](unidad1/algoritmo_masa_pseint.psc) |
 | Algoritmo en C – Cálculo de la masa del aire | [`algoritmo_masa.c`](unidad1/algoritmo_masa.c) |
 | Diagrama de flujo del algoritmo | ![](unidad1/diagrama_masa.png) |
 
