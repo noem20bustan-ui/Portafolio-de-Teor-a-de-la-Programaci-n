@@ -39,10 +39,10 @@ Aquí incluyo mi reflexión sobre lo aprendido, qué salió bien, qué falta pra
 ## Tareas entregadas
 
 - **Herramientas de algoritmos:** pseudocódigo y diagramas de flujo.
-  [Tarea1](https://drive.google.com/file/d/1r_Qpz6qW0wUK3Sd-qUcKzpLrpNokYlvD/view?usp=sharing)
+  [Tarea1:herramientas](https://drive.google.com/file/d/1r_Qpz6qW0wUK3Sd-qUcKzpLrpNokYlvD/view?usp=sharing)
 - **Instalación de lenguajes de programación:** C, Python o Java.
-  [Instalaciones](https://drive.google.com/file/d/1Jc6zVyShcyrnG4cg1bK00uLtHNyj8kfi/view?usp=sharing)
+  [Tarea2:instalaciones](https://drive.google.com/file/d/1Jc6zVyShcyrnG4cg1bK00uLtHNyj8kfi/view?usp=sharing)
 - **Primer acercamiento:** construcción de algoritmos con estructuras secuenciales en pseudocódigo.
-  [Construcciones de algoritmos](https://drive.google.com/file/d/1SLboYDiEZJBnluvBBm8XdPh35Owha0Zo/view?usp=sharing)
+  [Tarea3:construcciones de algoritmos](https://drive.google.com/file/d/1SLboYDiEZJBnluvBBm8XdPh35Owha0Zo/view?usp=sharing)
 - **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa.**
-
+ [Tarea4:dinseño de algoritmo](https://drive.google.com/file/d/111MfQ9oO4RabY0mmf6SDrkK2UgdKd1D-/view?usp=sharing)
