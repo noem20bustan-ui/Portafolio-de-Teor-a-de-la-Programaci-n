@@ -32,6 +32,7 @@
 ## 🧾 Conclusiones
 
 ## 📚 Referencias
+[Ir a referencias](Referencias.pdf)
 
 ## 🤖 Uso de la IA Generativa
 **En este trabajo se uso la herramienta: ChatGPT*  
