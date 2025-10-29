@@ -18,8 +18,8 @@
 
 ---
 ## Ejemplos
-- [Algoritmo de cálculo de masa del aire](unidad1/algoritmo_masa.psc)
- (pseudocódigo)
+- [Programacion por blques en Scatch,primera parte](unidad1/perritoScratch.png)
+- [Programacion por blques en Scatch,segunda parte](unidad1/perritoScratch_cambio_deFondo.png)
 - [Algoritmo de cálculo de masa del aire](unidad1/algoritmo_masa.psc)
  (pseudocódigo)
 - [Algoritmo en C — Cálculo de la masa del aire](unidad1/algoritmo_masa.c)
