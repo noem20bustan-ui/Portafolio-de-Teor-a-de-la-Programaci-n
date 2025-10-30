@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 float main() {
-        float masaDelAire, presion, volumen, temperatura;
+     float masaDelAire, presion, volumen, temperatura;
     printf("Ingrese el valor de la presion:\n ");
     scanf("%g",&presion);
     printf("Ingrese el valor del volumen:\n ");
