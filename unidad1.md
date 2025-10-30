@@ -128,7 +128,7 @@ Tercero pedimos al usuario que inrese los valores mediante el comando sprintf do
 Cuarto, procedemos a realizar la operacion con la formula para resolver el problema , lo que nos lleva al ultimo paso 
 Quinto, mostramos el resultado mediante el printf | [`algoritmo_masa.c`](unidad1/algoritmo_masa.c) |
 | Prueba de escritorio de C| ![](unidad1/diagrama_masa.png) |
-| Prueba de escritorio de manual| ![](unidad1/diagrama_masa.png) |
+| Prueba de escritorio de manual| ![](unidad1/pruebaDeEscirtorioManual.png) |
 | Diagrama de flujo del algoritmo | ![](unidad1/diagrama_masa.png) |
 
 ---
