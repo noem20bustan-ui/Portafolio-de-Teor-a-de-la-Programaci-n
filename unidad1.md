@@ -116,10 +116,13 @@ Sin embargo, también existen algunas limitaciones:
 
 | Descripción | Archivo / Imagen |
 |------------|----------------|
-| Programación por bloques en Scratch (Parte 1) | ![](unidad1/perritoScratch.png) |
-| Programación por bloques en Scratch (Parte 2) | ![](unidad1/perritoScratch_cambio_deFondo.png) |
-| Algoritmo en pseudocódigo – Cálculo de la masa del aire | [`algoritmo_masa.psc`](unidad1/algoritmo_masa_pseint.psc) |
-| Algoritmo en C – Cálculo de la masa del aire | [`algoritmo_masa.c`](unidad1/algoritmo_masa.c) |
+| Programación por bloques en Scratch (Parte 1). En este ejemplo de programacion por scratch el primer paso fue eligir el codigo de evento ( de color amarillo) que dice: al precionar la bandera verde, luego se eligio un bloque de eventos (color anaranjado) que dice: por siempre, dentro de este bloque se agregaron el bloque de movimiento (color azul) que dice: mover 100 pasos, y dos bloques de apariencia (color morado) el primero  dice: pensar Hmm durante 3 segundos, y el segundoÑ cambiar fodon a Beach Rio | ![](unidad1/perritoScratch.png) |
+| Programación por bloques en Scratch (Parte 2), luego de poner los comando se procede a ejecutar el programa donde se puede ver como se cambian el fondo de un paisaje de flores a uno de playa | ![](unidad1/perritoScratch_cambio_deFondo.png) |
+| Algoritmo en pseudocódigo – Cálculo de la masa del aire: para este ejercicio el primer paso fue definir los datos de enntrada (masaDelAire, presion, volumen, temperatura Como Real) como reales,, y el punto y como al final
+Segundo se pidio que se ingrese lo valores de la masa del aire, la presion , y el volumen , para que esto fuera posible dentro del codigo se escribio el comando "Escribir" , y para leer estos datos se puso el comando " Leer" con el punto y coma al final.
+Tercero: se realizo el procedicimiento con la respectiva formula y luego se escribio el resultado, respetando la sintaxis.| [`algoritmo_masa.psc`](unidad1/algoritmo_masa_pseint.psc) |
+| Algoritmo en C – Cálculo de la masa del aire: Primero se creo el archivo.C . Dentro de este archivo se puso la libreria stdio.h 
+Segundo se se def| [`algoritmo_masa.c`](unidad1/algoritmo_masa.c) |
 | Diagrama de flujo del algoritmo | ![](unidad1/diagrama_masa.png) |
 
 ---
