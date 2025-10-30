@@ -137,7 +137,7 @@ Sin embargo, también existen algunas limitaciones:
 | **Algoritmo en C – Cálculo de la masa del aire**<br>1️⃣ Se creó el archivo con extensión **.c** y se incluyó la librería estándar `#include <stdio.h>`.<br>2️⃣ Se definió la función principal `main()` y las variables como tipo *float*.<br>3️⃣ Se solicitó al usuario ingresar los valores con **printf**, y se capturaron con **scanf**, utilizando las máscaras y referencias adecuadas.<br>4️⃣ Se aplicó la fórmula correspondiente para el cálculo.<br>5️⃣ Finalmente, se mostró el resultado en pantalla mediante **printf**. | [💻 algoritmo_masa.c](unidad1/algoritmo_masa.c) |
 | **Prueba de escritorio en C**<br>Muestra la compilación y ejecución del programa, verificando que los resultados sean correctos. | ![](unidad1/ejecucion_Copilacion_EnC.png) |
 | **Prueba de escritorio manual**<br>Ejemplo del procedimiento lógico desarrollado paso a paso antes de ejecutar el código en el computador. | ![](unidad1/pruebaDeEscirtorioManual.png) |
-| **Diagrama de flujo del algoritmo**<br>Representación visual del proceso de cálculo de la masa del aire, donde se aprecian las entradas, operaciones y salidas. | ![](unidad1/diagrama_masa.png) |
+| **Diagrama de flujo del algoritmo**<br>Representación visual del proceso de cálculo de la masa del aire, donde se aprecian las entradas, operaciones y salidas. | ![](unidad1/diagramaDeFlujo_Pseint.png) |
 
 
 
