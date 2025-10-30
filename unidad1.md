@@ -121,8 +121,13 @@ Sin embargo, también existen algunas limitaciones:
 | Algoritmo en pseudocódigo – Cálculo de la masa del aire: para este ejercicio el primer paso fue definir los datos de enntrada (masaDelAire, presion, volumen, temperatura Como Real) como reales,, y el punto y como al final
 Segundo se pidio que se ingrese lo valores de la masa del aire, la presion , y el volumen , para que esto fuera posible dentro del codigo se escribio el comando "Escribir" , y para leer estos datos se puso el comando " Leer" con el punto y coma al final.
 Tercero: se realizo el procedicimiento con la respectiva formula y luego se escribio el resultado, respetando la sintaxis.| [`algoritmo_masa.psc`](unidad1/algoritmo_masa_pseint.psc) |
+| Prueba de escritorio Pseint | ![](unidad1/diagrama_masa.png) |
 | Algoritmo en C – Cálculo de la masa del aire: Primero se creo el archivo.C . Dentro de este archivo se puso la libreria stdio.h 
-Segundo se se def| [`algoritmo_masa.c`](unidad1/algoritmo_masa.c) |
+Segundo en C el programa empieza SIEMPRE desde la función main() asi que la colocamos y definimos las variables como real (float).
+Tercero pedimos al usuario que inrese los valores mediante el comando sprintf donde usamos el cartel (Ingrese el valor de la masa), para mostrar la salida de datos, y para leerlo usamos el comando scanf , dentro de este ponemos la mascara (%g) y el nombre de la variable (&masaDelAire)
+Cuarto, procedemos a realizar la operacion con la formula para resolver el problema , lo que nos lleva al ultimo paso 
+Quinto, mostramos el resultado mediante el printf | [`algoritmo_masa.c`](unidad1/algoritmo_masa.c) |
+| Prueba de escritorio de C| ![](unidad1/diagrama_masa.png) |
 | Diagrama de flujo del algoritmo | ![](unidad1/diagrama_masa.png) |
 
 ---
