@@ -125,19 +125,25 @@ Sin embargo, también existen algunas limitaciones:
 </details>
 
 ---
-
+ 
 ## 🧪 Ejemplos Prácticos  
 
-| Descripción | Archivo / Imagen |
-|-------------|-----------------|
-| Programación por bloques en Scratch (Parte 1)... | <img src="unidad1/perritoScratch.png" width="600"/> |
-| Programación por bloques en Scratch (Parte 2)... | <img src="unidad1/perritoScratch_cambio_deFondo.png" width="600"/> |
-| Algoritmo en pseudocódigo – Cálculo de la masa del aire... | [`algoritmo_masa.psc`](unidad1/masa.psc) |
-| Prueba de escritorio Pseint | <img src="unidad1/ejecucion_Pseint.png" width="600"/> |
-| Algoritmo en C – Cálculo de la masa del aire... | [`algoritmo_masa.c`](unidad1/algoritmo_masa.c) |
-| Prueba de escritorio de C | <img src="unidad1/ejecucion_Copilacion_EnC.png" width="600"/> |
-| Prueba de escritorio de manual | <img src="unidad1/pruebaDeEscirtorioManual.png" width="600"/> |
-| Diagrama de flujo del algoritmo | <img src="unidad1/diagrama_masa.png" width="600"/> |
+<div align="center">
+
+| 📝 **Descripción** | 🖼️ **Archivo / Imagen** |
+|:------------------|:------------------------|
+| **Programación por bloques en Scratch (Parte 1).**<br><br>En este ejemplo de programacion por scratch el primer paso fue eligir el codigo de evento ( de color amarillo) que dice: al precionar la bandera verde, luego se eligio un bloque de eventos (color anaranjado) que dice: por siempre, dentro de este bloque se agregaron el bloque de movimiento (color azul) que dice: mover 100 pasos, y dos bloques de apariencia (color morado) el primero dice: pensar Hmm durante 3 segundos, y el segundoÑ cambiar fodon a Beach Rio. | <img src="unidad1/perritoScratch.png" width="550"/> |
+| **Programación por bloques en Scratch (Parte 2).**<br><br>luego de poner los comando se procede a ejecutar el programa donde se puede ver como se cambian el fondo de un paisaje de flores a uno de playa. | <img src="unidad1/perritoScratch_cambio_deFondo.png" width="550"/> |
+| **Algoritmo en pseudocódigo – Cálculo de la masa del aire:**<br><br>para este ejercicio el primer paso fue definir los datos de enntrada (masaDelAire, presion, volumen, temperatura Como Real) como reales,, y el punto y como al final Segundo se pidio que se ingrese lo valores de la masa del aire, la presion , y el volumen , para que esto fuera posible dentro del codigo se escribio el comando "Escribir" , y para leer estos datos se puso el comando " Leer" con el punto y coma al final. Tercero: se realizo el procedicimiento con la respectiva formula y luego se escribio el resultado, respetando la sintaxis. | [algoritmo_masa.psc](unidad1/masa.psc) |
+| **Prueba de escritorio Pseint.** | <img src="unidad1/ejecucion_Pseint.png" width="550"/> |
+| **Algoritmo en C – Cálculo de la masa del aire:**<br><br>Primero se creo el archivo.C . Dentro de este archivo se puso la libreria stdio.h Segundo en C el programa empieza SIEMPRE desde la función main() asi que la colocamos y definimos las variables como real (float). Tercero pedimos al usuario que inrese los valores mediante el comando sprintf donde usamos el cartel (Ingrese el valor de la masa), para mostrar la salida de datos, y para leerlo usamos el comando scanf , dentro de este ponemos la mascara (%g) y el nombre de la variable (&masaDelAire) Cuarto, procedemos a realizar la operacion con la formula para resolver el problema , lo que nos lleva al ultimo paso Quinto, mostramos el resultado mediante el printf. | [algoritmo_masa.c](unidad1/algoritmo_masa.c) |
+| **Prueba de escritorio de C.** | <img src="unidad1/ejecucion_Copilacion_EnC.png" width="550"/> |
+| **Prueba de escritorio de manual.** | <img src="unidad1/pruebaDeEscirtorioManual.png" width="550"/> |
+| **Diagrama de flujo del algoritmo.** | <img src="unidad1/diagrama_masa.png" width="550"/> |
+
+</div>
+
+---
 
 ---
 
