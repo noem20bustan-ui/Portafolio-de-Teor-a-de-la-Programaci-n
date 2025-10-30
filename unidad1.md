@@ -140,7 +140,6 @@ Sin embargo, también existen algunas limitaciones:
 | **Diagrama de flujo del algoritmo**<br>Representación visual del proceso de cálculo de la masa del aire, donde se aprecian las entradas, operaciones y salidas. | ![](unidad1/diagrama_masa.png) |
 
 
----
 
 ---
 
