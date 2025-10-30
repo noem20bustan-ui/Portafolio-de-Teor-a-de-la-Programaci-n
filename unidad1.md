@@ -120,7 +120,7 @@ Sin embargo, también existen algunas limitaciones:
 | Programación por bloques en Scratch (Parte 2), luego de poner los comando se procede a ejecutar el programa donde se puede ver como se cambian el fondo de un paisaje de flores a uno de playa | ![](unidad1/perritoScratch_cambio_deFondo.png) |
 | Algoritmo en pseudocódigo – Cálculo de la masa del aire: para este ejercicio el primer paso fue definir los datos de enntrada (masaDelAire, presion, volumen, temperatura Como Real) como reales,, y el punto y como al final
 Segundo se pidio que se ingrese lo valores de la masa del aire, la presion , y el volumen , para que esto fuera posible dentro del codigo se escribio el comando "Escribir" , y para leer estos datos se puso el comando " Leer" con el punto y coma al final.
-Tercero: se realizo el procedicimiento con la respectiva formula y luego se escribio el resultado, respetando la sintaxis.| [`algoritmo_masa.psc`](unidad1/unidad1/masa.psc) |
+Tercero: se realizo el procedicimiento con la respectiva formula y luego se escribio el resultado, respetando la sintaxis.| [`algoritmo_masa.psc`](unidad1/masa.psc) |
 | Prueba de escritorio Pseint | ![](unidad1/diagrama_masa.png) |
 | Algoritmo en C – Cálculo de la masa del aire: Primero se creo el archivo.C . Dentro de este archivo se puso la libreria stdio.h 
 Segundo en C el programa empieza SIEMPRE desde la función main() asi que la colocamos y definimos las variables como real (float).
