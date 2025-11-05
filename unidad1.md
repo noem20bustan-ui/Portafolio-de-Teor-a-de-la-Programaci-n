@@ -128,7 +128,7 @@ Sin embargo, también existen algunas limitaciones:
 <details>
 <summary><h2>🔹 Lenguaje de programacion C </h2></summary>
 ## 💻 Lenguaje de Programación C
-
+---
 Según el documento **“Lenguaje de Programación C”**, el lenguaje **C** es un **lenguaje de programación estructurado y de nivel medio**, creado por **Brian Kernighan** y **Dennis Ritchie** en los años 70.  
 
 Combina las características de los **lenguajes de alto nivel** con la **eficiencia del lenguaje ensamblador**.  
