@@ -7,7 +7,7 @@
 </div>
 
 ### 📘 Contenidos de la Unidad
-- **Conceptos básicos:** Algoritmos, pseudocódigo y diagramas de flujo.  
+- **Conceptos básicos:** Algoritmos, pseudocódigo , diagramas de flujo y lenguaje C.  
 - **Programación por bloques.**  
 - **Ejemplos con estructuras lineales/secuenciales.**  
 - **Dificultades encontradas.**  
@@ -125,6 +125,17 @@ Sin embargo, también existen algunas limitaciones:
 </details>
 
 ---
+<details>
+<summary><h2>🔹 Lenguaje de programacion C </h2></summary>
+
+Según el documento **“Lenguaje de Programación C”**, el lenguaje **C** es un **lenguaje de programación estructurado y de nivel medio**, creado por **Brian Kernighan** y **Dennis Ritchie** en los años 70.  
+
+Combina las características de los **lenguajes de alto nivel** con la **eficiencia del lenguaje ensamblador**.  
+
+Su diseño busca ser **simple, flexible y portable**, permitiendo que los programas escritos puedan **adaptarse a distintos tipos de computadoras**.
+
+
+📄 **Definiciones y explicación:**  
  
 ## 🧪 Ejemplos Prácticos  
 
