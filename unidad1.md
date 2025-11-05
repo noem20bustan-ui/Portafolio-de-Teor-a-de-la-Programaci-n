@@ -7,7 +7,7 @@
 </div>
 
 ### 📘 Contenidos de la Unidad
-- **Conceptos básicos:** Algoritmos, pseudocódigo , diagramas de flujo y lenguaje C.  
+- **Conceptos básicos:** Algoritmos, pseudocódigo , diagramas de flujo , lenguaje de programacion C y pruebas de escritorio.  
 - **Programación por bloques.**  
 - **Ejemplos con estructuras lineales/secuenciales.**  
 - **Dificultades encontradas.**  
@@ -138,6 +138,21 @@ Su diseño busca ser **simple, flexible y portable**, permitiendo que los progra
 </details>
 
 ---
+<details>
+<summary><h2>🧮 Pruebas de Escritorio</h2></summary>
+
+---
+
+### 🧩 **Definición**
+
+Las **pruebas de escritorio**, también conocidas como **pruebas estáticas** o **pruebas de caja blanca**, son una **técnica fundamental en el proceso de desarrollo de software**.  
+
+Consisten en un análisis **manual del código o del algoritmo**, donde se **evalúa su comportamiento sin ejecutarlo**, con el fin de detectar errores lógicos, de flujo o de diseño antes de la implementación.
+
+---
+
+</details>
+
 
 📄 **Definiciones y explicación:**  
  
