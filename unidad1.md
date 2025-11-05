@@ -153,8 +153,7 @@ Consisten en un análisis **manual del código o del algoritmo**, donde se **eva
 
 </details>
 
-
-📄 **Definiciones y explicación:**  
+ 
  
 ## 🧪 Ejemplos Prácticos  
 
