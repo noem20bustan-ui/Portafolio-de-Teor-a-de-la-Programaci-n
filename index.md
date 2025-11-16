@@ -42,7 +42,7 @@
 ---
 
 ## 📚 Referencias
-📄 [Ver archivo de referencias](referencias/Referencias.pdf)
+📄 [Ir a Referencias de la Unidad 1](referencias/Referencias%20de%20la%20unidad%201.docx)
 
 ---
 
