@@ -10,14 +10,14 @@
 ## 1. Introducción a las estructuras condicionales
 
 Las estructuras condicionales son herramientas fundamentales en los lenguajes de programación. Permiten que un programa “tome decisiones”: es decir, ejecutar unas líneas de código u otras dependiendo de si se cumple una condición determinada. Esto permite que el flujo del programa no sea siempre lineal, sino que varíe según datos, estados o criterios diferentes. 
-En general, las condiciones se escriben como expresiones lógicas (por ejemplo: “x > 0”, “edad == 18”, “letra == 'a'”, etc.), y su evaluación produce un resultado booleano: verdadero (true) o falso (false). Codedamn +1
+En general, las condiciones se escriben como expresiones lógicas (por ejemplo: “x > 0”, “edad == 18”, “letra == 'a'”, etc.), y su evaluación produce un resultado booleano: verdadero (true) o falso (false)[1]. 
 
 A continuación, analizamos los tipos principales de condicionales: simple, doble, múltiple y anidamiento.
 ## 2. Estructura Condicional Simple (Si ... Entonces)
 
 ### Definición y cuándo se usa
 
-La condicional simple —en muchos lenguajes representada por if solo— se usa cuando queremos que una acción (o un bloque de código) se ejecute solo si una condición se cumple (es verdadera). Si la condición no se cumple, simplemente no sucede nada especial y el programa continúa su ejecución después de la estructura. Codedamn +1
+La condicional simple —en muchos lenguajes representada por if solo— se usa cuando queremos que una acción (o un bloque de código) se ejecute solo si una condición se cumple (es verdadera). Si la condición no se cumple, simplemente no sucede nada especial y el programa continúa su ejecución después de la estructura[1].
 
 Este tipo de estructura es útil cuando solo te interesa “hacer algo” en caso de una condición favorable, y no necesitas una alternativa en caso de que la condición sea falsa.
 
@@ -29,7 +29,7 @@ Este tipo de estructura es útil cuando solo te interesa “hacer algo” en cas
 
 ### Definición y cuándo se usa
 
-La condicional simple —en muchos lenguajes representada por if solo— se usa cuando queremos que una acción (o un bloque de código) se ejecute solo si una condición se cumple (es verdadera). Si la condición no se cumple, simplemente no sucede nada especial y el programa continúa su ejecución después de la estructura. Codedamn +1
+La condicional simple —en muchos lenguajes representada por if solo— se usa cuando queremos que una acción (o un bloque de código) se ejecute solo si una condición se cumple (es verdadera). Si la condición no se cumple, simplemente no sucede nada especial y el programa continúa su ejecución después de la estructura[2].
 
 Este tipo de estructura es útil cuando solo te interesa “hacer algo” en caso de una condición favorable, y no necesitas una alternativa en caso de que la condición sea falsa.
 
@@ -42,7 +42,7 @@ Si solo hay una sentencia simple, las llaves { } pueden omitirse (aunque es una 
 
 ### Definición y cuándo se usa
 
-(if-else-if). Cuando se necesita que el programa elija entre dos caminos alternativos —uno si la condición se cumple y otro si no— usamos una condicional doble. Es decir, definimos qué debe pasar cuando la condición es verdadera y qué debe pasar cuando es falsa. Esto permite manejar dos escenarios distintos. 
+(if-else-if). Cuando se necesita que el programa elija entre dos caminos alternativos —uno si la condición se cumple y otro si no— usamos una condicional doble. Es decir, definimos qué debe pasar cuando la condición es verdadera y qué debe pasar cuando es falsa. Esto permite manejar dos escenarios distintos[3]. 
 
 Es apropiada cuando siempre debe tomarse una decisión: ya sea la condición se cumple o no, uno de los dos bloques debe ejecutarse.
 
@@ -55,11 +55,11 @@ Es apropiada cuando siempre debe tomarse una decisión: ya sea la condición se 
 ### Definición y cuándo se usa
 
 Cuando necesitamos evaluar varias condiciones alternativas (más de dos) para tomar decisiones, una cadena de if … else if … else es una posibilidad.
-El break es importante para evitar que al encontrar un caso verdadero se sigan ejecutando los casos siguientes. 
+El break es importante para evitar que al encontrar un caso verdadero se sigan ejecutando los casos siguientes[3]. 
 
-Sin embargo, cuando las decisiones dependen del valor de una misma variable (por ejemplo, un menú de opciones, un valor numérico o un carácter, etc.), resulta más claro y manejable usar una estructura de selección múltiple con switch-case. 
+Sin embargo, cuando las decisiones dependen del valor de una misma variable (por ejemplo, un menú de opciones, un valor numérico o un carácter, etc.), resulta más claro y manejable usar una estructura de selección múltiple con switch-case[2]. 
 
-La estructura switch permite comparar una expresión con múltiples valores constantes, y ejecutar el bloque correspondiente cuando haya coincidencia. Si no hay coincidencia, puede haber una cláusula default como “caso por defecto”. 
+La estructura switch permite comparar una expresión con múltiples valores constantes, y ejecutar el bloque correspondiente cuando haya coincidencia. Si no hay coincidencia, puede haber una cláusula default como “caso por defecto”[1]. 
 
 ### Estructura general en C
 
@@ -71,7 +71,7 @@ Con switch-case:
 
 ![Sintaxis switch](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/switch.png)
 
-El break es importante para evitar que al encontrar un caso verdadero se sigan ejecutando los casos siguientes. EII UVA +2 OCW Universidad de Cantabria +2
+El break es importante para evitar que al encontrar un caso verdadero se sigan ejecutando los casos siguientes[2]. 
 
 ---
 
@@ -79,11 +79,11 @@ El break es importante para evitar que al encontrar un caso verdadero se sigan e
 
 ### Definición y cuándo se usa
 
-El anidamiento consiste en colocar una estructura condicional dentro de otra. Esto permite tomar decisiones más complejas: primero evalúas una condición, y —si se cumple— dentro de ese bloque puedes evaluar otra condición, y así sucesivamente.
+El anidamiento consiste en colocar una estructura condicional dentro de otra. Esto permite tomar decisiones más complejas: primero evalúas una condición, y —si se cumple— dentro de ese bloque puedes evaluar otra condición, y así sucesivamente[1].
 
 Es útil cuando las decisiones dependen de múltiples criterios, en jerarquías de evaluación. 
 
-Por ejemplo: decidir algo si una persona es mayor de edad, y luego dentro de ese caso decidir algo distinto si también es mayor de cierta edad; o en un menú, si una opción es elegida, luego verificar otro valor para realizar una acción específica, etc.
+Por ejemplo: decidir algo si una persona es mayor de edad, y luego dentro de ese caso decidir algo distinto si también es mayor de cierta edad; o en un menú, si una opción es elegida, luego verificar otro valor para realizar una acción específica, etc[3].
 
 ### Estructura general en C
 
@@ -99,11 +99,11 @@ Por ejemplo: decidir algo si una persona es mayor de edad, y luego dentro de ese
 
 ## Contadores y Acumuladores — herramientas fundamentales en programación
 
-Los contadores y acumuladores son mecanismos esenciales en los programas que requieren llevar un registro numérico de eventos, iteraciones, sumas progresivas o resultados parciales. Forman parte de las estructuras de control más comunes y permiten que un algoritmo procese datos paso a paso, actualizando valores a medida que avanza la ejecución. 
+Los contadores y acumuladores son mecanismos esenciales en los programas que requieren llevar un registro numérico de eventos, iteraciones, sumas progresivas o resultados parciales. Forman parte de las estructuras de control más comunes y permiten que un algoritmo procese datos paso a paso, actualizando valores a medida que avanza la ejecución[1]. 
 
 Ambos se representan mediante variables numéricas, pero cumplen funciones distintas:
 
-Un contador incrementa o decrementa su valor de forma controlada, generalmente en una cantidad fija (por ejemplo, +1).
+Un contador incrementa o decrementa su valor de forma controlada, generalmente en una cantidad fija[1].
 
 Un acumulador suma, resta u opera con valores que varían, almacenando un resultado progresivo.
 
@@ -113,12 +113,12 @@ Son indispensables al trabajar con ciclos, arreglos, listas, cálculos repetitiv
 ## 1. Estructura Mientras (While)
 
 ### Definición y cuándo se usa
-La estructura mientras (en muchos lenguajes representada como while) ejecuta un bloque de código mientras una condición sea verdadera. Cuando deja de cumplirse, el programa continúa con la ejecución posterior. 
+La estructura mientras (en muchos lenguajes representada como while) ejecuta un bloque de código mientras una condición sea verdadera. Cuando deja de cumplirse, el programa continúa con la ejecución posterior[2]. 
 
 Se utiliza cuando no sabemos exactamente cuántas veces se repetirá un proceso, es decir, cuando el número de iteraciones depende de una condición que cambia durante la ejecución.
 
  
-Es fundamental asegurarse de que la condición cambie dentro del ciclo; de lo contrario, el programa puede caer en un bucle infinito.
+Es fundamental asegurarse de que la condición cambie dentro del ciclo; de lo contrario, el programa puede caer en un bucle infinito[3].
 
 ### Estructura general en C
 
@@ -133,7 +133,7 @@ Es fundamental asegurarse de que la condición cambie dentro del ciclo; de lo co
 ## 2. Estructura Hacer…Mientras (do-while)
 
 ### Definición y cuándo se usa
-La estructura hacer…mientras (en muchos lenguajes do…while) ejecuta primero el bloque de código y después evalúa la condición. Esto garantiza que el ciclo se ejecute al menos una vez, incluso si la condición es inicialmente falsa. 
+La estructura hacer…mientras (en muchos lenguajes do…while) ejecuta primero el bloque de código y después evalúa la condición. Esto garantiza que el ciclo se ejecute al menos una vez, incluso si la condición es inicialmente falsa[3]. 
 
 Es apropiada cuando necesitas que el usuario ingrese un dato mínimo una vez, validar una opción, o procesar un bloque que no debe omitirse.
 
@@ -148,7 +148,7 @@ Es apropiada cuando necesitas que el usuario ingrese un dato mínimo una vez, va
 
 ### Definición y cuándo se usa
 La estructura para (en muchos lenguajes for) se usa cuando el número de repeticiones es determinado. Su sintaxis incluye inicialización, condición y actualización, lo que la hace compacta y fácil de comprender. 
-Es ideal para recorrer rangos numéricos, vectores, listas, archivos o ejecutar tareas un número fijo de veces.
+Es ideal para recorrer rangos numéricos, vectores, listas, archivos o ejecutar tareas un número fijo de veces[2].
 
 ### Estructura general en C
 
@@ -163,7 +163,7 @@ Es ideal para recorrer rangos numéricos, vectores, listas, archivos o ejecutar 
 ## 4. Anidamiento de estructuras repetitivas
 
 ### Definición y cuándo se usa
-El anidamiento consiste en colocar un ciclo dentro de otro, igual que se hace con condicionales, pero aplicado a estructuras repetitivas. Esto permite manejar procesos de múltiples dimensiones: tablas, recorridos matriciales, combinaciones, doble iteración, etc. 
+El anidamiento consiste en colocar un ciclo dentro de otro, igual que se hace con condicionales, pero aplicado a estructuras repetitivas. Esto permite manejar procesos de múltiples dimensiones: tablas, recorridos matriciales, combinaciones, doble iteración, etc[1]. 
 
 Se usa cuando se requiere recorrer estructuras complejas o repetir ciclos completos dentro de otros.
 
@@ -178,7 +178,7 @@ También se pueden anidar while, for, do…while entre sí.
 
 ## 5. Implementación de estructuras repetitivas en lenguajes de programación
 
-Aunque la sintaxis cambia según el lenguaje, la lógica fundamental es la misma: repetir operaciones según condiciones o rangos.
+Aunque la sintaxis cambia según el lenguaje, la lógica fundamental es la misma: repetir operaciones según condiciones o rangos[3].
 
 ### En Java
 Java usa:
@@ -189,7 +189,7 @@ Java usa:
 - y el bucle especial for-each para recorrer colecciones.
 
 ### En Python
-Python utiliza:
+Python utiliza[2]:
 
 - while  
 - for (que funciona como iterador sobre secuencias)  
