@@ -26,8 +26,87 @@ Este tipo de estructura es útil cuando solo te interesa “hacer algo” en cas
 
 ![Sintaxis If](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/1if.png)
 
+## 3. Estructura Condicional Simple (Si ... Entonces)
+
+### Definición y cuándo se usa
+
+La condicional simple —en muchos lenguajes representada por if solo— se usa cuando queremos que una acción (o un bloque de código) se ejecute solo si una condición se cumple (es verdadera). Si la condición no se cumple, simplemente no sucede nada especial y el programa continúa su ejecución después de la estructura. Codedamn +1
+
+Este tipo de estructura es útil cuando solo te interesa “hacer algo” en caso de una condición favorable, y no necesitas una alternativa en caso de que la condición sea falsa.
+
+### Estructura general en C
 ![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
 
+Si solo hay una sentencia simple, las llaves { } pueden omitirse (aunque es una buena práctica usarlas). Hep Uniovi +1.
+
+## 4. Estructura Condicional Doble (Si ... Entonces, Sino ...)
+
+### Definición y cuándo se usa
+
+Cuando se necesita que el programa elija entre dos caminos alternativos —uno si la condición se cumple y otro si no— usamos una condicional doble. Es decir, definimos qué debe pasar cuando la condición es verdadera y qué debe pasar cuando es falsa. Esto permite manejar dos escenarios distintos. Portal Académico +2 DevsEnv +2
+
+Es apropiada cuando siempre debe tomarse una decisión: ya sea la condición se cumple o no, uno de los dos bloques debe ejecutarse.
+
+### Estructura general en C
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+## 5. Estructura Condicional Múltiple (En caso de ... / Selección múltiple)
+
+### Definición y cuándo se usa
+
+Cuando necesitamos evaluar varias condiciones alternativas (más de dos) para tomar decisiones, una cadena de if … else if … else es una posibilidad.
+El break es importante para evitar que al encontrar un caso verdadero se sigan ejecutando los casos siguientes. EII UVA +2 OCW Universidad de Cantabria +2
+
+Sin embargo, cuando las decisiones dependen del valor de una misma variable (por ejemplo, un menú de opciones, un valor numérico o un carácter, etc.), resulta más claro y manejable usar una estructura de selección múltiple con switch-case. EII UVA +2 Noob to Master +2
+
+La estructura switch permite comparar una expresión con múltiples valores constantes, y ejecutar el bloque correspondiente cuando haya coincidencia. Si no hay coincidencia, puede haber una cláusula default como “caso por defecto”. EII UVA +2 OCW Universidad de Cantabria +2
+
+### Estructura general en C
+
+Con if ... else if ... else:  
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+Con switch-case:  
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+El break es importante para evitar que al encontrar un caso verdadero se sigan ejecutando los casos siguientes. EII UVA +2 OCW Universidad de Cantabria +2
+
+---
+
+## 6. Anidamiento de estructuras condicionales
+
+### Definición y cuándo se usa
+
+El anidamiento consiste en colocar una estructura condicional dentro de otra. Esto permite tomar decisiones más complejas: primero evalúas una condición, y —si se cumple— dentro de ese bloque puedes evaluar otra condición, y así sucesivamente.
+
+Es útil cuando las decisiones dependen de múltiples criterios, en jerarquías de evaluación. Prologicode +2 KoderHQ +2
+
+Por ejemplo: decidir algo si una persona es mayor de edad, y luego dentro de ese caso decidir algo distinto si también es mayor de cierta edad; o en un menú, si una opción es elegida, luego verificar otro valor para realizar una acción específica, etc.
+
+### Estructura general en C
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
 </details>
 
 ---
