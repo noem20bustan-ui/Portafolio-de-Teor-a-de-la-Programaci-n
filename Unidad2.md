@@ -14,6 +14,14 @@ Las estructuras condicionales son herramientas fundamentales en los lenguajes de
 En general, las condiciones se escriben como expresiones lógicas (por ejemplo: “x > 0”, “edad == 18”, “letra == 'a'”, etc.), y su evaluación produce un resultado booleano: verdadero (true) o falso (false). Codedamn +1
 
 A continuación, analizamos los tipos principales de condicionales: simple, doble, múltiple y anidamiento.
+## 2. Estructura Condicional Simple (Si ... Entonces)
+
+### Definición y cuándo se usa
+
+La condicional simple —en muchos lenguajes representada por if solo— se usa cuando queremos que una acción (o un bloque de código) se ejecute solo si una condición se cumple (es verdadera). Si la condición no se cumple, simplemente no sucede nada especial y el programa continúa su ejecución después de la estructura. Codedamn +1
+
+Este tipo de estructura es útil cuando solo te interesa “hacer algo” en caso de una condición favorable, y no necesitas una alternativa en caso de que la condición sea falsa.
+ 
 
 </details>
 
