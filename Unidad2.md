@@ -83,16 +83,8 @@ Este tipo de problemas ayuda a comprender cómo interactúan ambas estructuras d
 <summary><h2>⚠️ 5. Principales dificultades detectadas</h2></summary>
 
 Durante esta unidad, la principal dificultad se centró en la comprensión del funcionamiento de los **contadores y acumuladores**.  
-Entender su lógica fue un desafío, dado que su comportamiento y la acción que ejecutaban dependían directamente de la **ubicación estratégica** que se les asignara dentro de la estructura de control repetitiva (el bucle).
+Entender su lógica fue un desafío, porque su comportamiento y la acción que ejecutaban dependen directamente de la **ubicación estratégica** que se les asigna dentro de la estructura de control repetitiva (el bucle).
 
-### Tabla solicitada (1 columna, 4 filas)
-
-| Observación |
-|-------------|
-| Uso adecuado de contadores |
-| Uso adecuado de acumuladores |
-| Ubicación dentro del ciclo |
-| Comprensión del flujo del bucle |
 
 </details>
 
@@ -101,7 +93,7 @@ Entender su lógica fue un desafío, dado que su comportamiento y la acción que
 # 💭 Reflexión Mejorada: Aprendizaje y Áreas de Oportunidad
 
 Durante esta unidad, aprendí que las **estructuras repetitivas (bucles)** son un componente fundamental en el desarrollo de código.  
-Es crucial dominar cómo y cuándo utilizar un **bucle, un contador y un acumulador**, ya que la correcta implementación de estos elementos determina la ejecución eficiente del programa.
+Es crucial dominar cómo y cuándo utilizar un **bucle, un contador y un acumulador**, ya que usar correctamente estos elementos determina la ejecución eficiente del programa.
 
 También comprendí que las **estructuras condicionales** son esenciales, pues actúan como herramientas que permiten al programa tomar decisiones o ejecutar acciones distintas dependiendo de si una determinada situación se cumple o no.
 
