@@ -79,14 +79,11 @@ Este tipo de problemas ayuda a comprender cómo interactúan ambas estructuras d
 
 ---
 
-<details>
-<summary><h2>⚠️ 5. Principales dificultades detectadas</h2></summary>
+
+# ⚠️ Principales dificultades detectadas
 
 Durante esta unidad, la principal dificultad se centró en la comprensión del funcionamiento de los **contadores y acumuladores**.  
 Entender su lógica fue un desafío, porque su comportamiento y la acción que ejecutaban dependen directamente de la **ubicación estratégica** que se les asigna dentro de la estructura de control repetitiva (el bucle).
-
-
-</details>
 
 ---
 
