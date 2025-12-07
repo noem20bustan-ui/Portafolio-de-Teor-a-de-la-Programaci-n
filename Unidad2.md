@@ -218,10 +218,10 @@ Este tipo de problemas ayuda a comprender cómo interactúan ambas estructuras d
 
 | Nº | Actividad | Descripción | Enlace |
 |----|------------|-------------|--------|
-| 1️⃣ | 🧩 **Herramientas de algoritmos** | Pseudocódigo y diagramas de flujo | [Ver Tarea 1](https://drive.google.com/file/d/1r_Qpz6qW0wUK3Sd-qUcKzpLrpNokYlvD/view?usp=sharing) |
-| 2️⃣ | 💻 **Instalación de lenguajes** | C, Python o Java | [Ver Tarea 2](https://drive.google.com/file/d/1Jc6zVyShcyrnG4cg1bK00uLtHNyj8kfi/view?usp=sharing) |
-| 3️⃣ | 🧠 **Primer acercamiento** | Construcción de algoritmos secuenciales | [Ver Tarea 3](https://drive.google.com/file/d/1SLboYDiEZJBnluvBBm8XdPh35Owha0Zo/view?usp=sharing) |
-| 4️⃣ | ⚙️ **Del diseño al programa** | Del algoritmo a la construcción del código | [Ver Tarea 4](https://drive.google.com/file/d/111MfQ9oO4RabY0mmf6SDrkK2UgdKd1D-/view?usp=sharing) |
+| 1️⃣ | 🧩 **Aplicaion de estructuras condicionales en la resolucion de problemas** | APE 1 | [Ver Tarea 1](https://drive.google.com/file/d/19j6dx-yoKMpiOZDX0IXRca-Qc_huWHOa/view?usp=sharing) |
+| 2️⃣ | 💻 **Aplicaion de estructuras repetitivas en la resolucion de problemas** | APE 2 | [Ver Tarea 2](https://drive.google.com/file/d/1mcQ7-DmnYwzUNdr0uI5I10ricC61cxYp/view?usp=sharing) |
+| 3️⃣ | 🧠 **Diferencias entrer los tipos de estructuras condicionales** | AA 1 | [Ver Tarea 3](https://drive.google.com/file/d/1WDfdJpODP4Tu-k-C6_lokMjZWC2A51TD/view?usp=sharing) |
+| 4️⃣ | ⚙️ **Cuadro comparativo entre las estructuras repetitivas** | AA 2 | [Ver Tarea 4](https://drive.google.com/file/d/1il0yI7PBZLpCC1tVznO3PZ1woeGEPO9L/view?usp=sharing) |
 
 </details>
 
