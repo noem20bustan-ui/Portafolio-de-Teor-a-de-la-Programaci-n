@@ -75,6 +75,10 @@ Este tipo de problemas ayuda a comprender cómo interactúan ambas estructuras d
 
 *(Se mantiene exactamente la misma tabla que en Unidad 1. Pégala aquí sin modificarla.)*
 
+
+</details>
+
+
 ---
 
 <details>
