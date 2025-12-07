@@ -42,7 +42,7 @@
 ---
 
 ## 📚 Referencias
-📄 [Ir a Referencias de la Unidad 1](referencias/Referencias%20de%20la%20unidad%201.docx)
+📄 [Ir a Referencias ](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/referencias/Referencias.pdf)
 
 ---
 
