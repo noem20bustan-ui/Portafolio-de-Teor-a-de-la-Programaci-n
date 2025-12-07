@@ -202,10 +202,20 @@ Python utiliza:
 <details>
 <summary><h2>🧠 3. Ejercicio combinando: estructura condicional y repetitiva</h2></summary>
 
-A continuación se estudió un ejercicio que combinaba:
+# Determinar si un número es perfecto
 
-- Una **estructura condicional**, utilizada para decidir entre varias acciones;
-- Una **estructura repetitiva**, usada para ejecutar pasos de forma cíclica.
+Realice un programa que determine si un número entero **n** es o no perfecto.  
+Un número perfecto es un entero que es igual a la **suma de sus divisores positivos menores que él mismo**.
+
+**Ejemplo:**  
+6 = 1 + 2 + 3  
+Por lo tanto, **6 es un número perfecto**.
+# Diagrama de flujo  
+![Sintaxis del diagrama de flujo](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/Diagrama-py.png)
+# Código en Python
+![Sintaxis del codigo](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/codigo-py.png)
+# Verificacion
+![Verificacion del problema](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/Prueba-py.png)
 
 Este tipo de problemas ayuda a comprender cómo interactúan ambas estructuras dentro de un programa y cómo fluye la información a través de las decisiones y los ciclos.
 
