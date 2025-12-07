@@ -42,7 +42,7 @@
 ---
 
 ## 📚 Referencias
-📄 [Ir a Referencias ](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/referencias/Referencias.pdf)
+📄 [Ir a Referencias ](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/blob/main/referencias/Referencias.pdf)
 
 ---
 
