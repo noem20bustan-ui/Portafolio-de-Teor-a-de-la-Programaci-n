@@ -71,7 +71,14 @@ Este tipo de problemas ayuda a comprender cómo interactúan ambas estructuras d
 ---
 
 <details>
-<summary><h2>⚠️ 4. Principales dificultades detectadas</h2></summary>
+<summary><h2>⚠️ 4. Tareas entregadas </h2></summary>
+
+*(Se mantiene exactamente la misma tabla que en Unidad 1. Pégala aquí sin modificarla.)*
+
+---
+
+<details>
+<summary><h2>📚 5. Principales dificultades detectadas  </h2></summary>
 
 Durante esta unidad, la principal dificultad se centró en la comprensión del funcionamiento de los **contadores y acumuladores**.  
 Entender su lógica fue un desafío, dado que su comportamiento y la acción que ejecutaban dependían directamente de la **ubicación estratégica** que se les asignara dentro de la estructura de control repetitiva (el bucle).
@@ -87,14 +94,6 @@ Entender su lógica fue un desafío, dado que su comportamiento y la acción que
 
 </details>
 
----
-
-<details>
-<summary><h2>📚 5. Tareas entregadas</h2></summary>
-
-*(Se mantiene exactamente la misma tabla que en Unidad 1. Pégala aquí sin modificarla.)*
-
-</details>
 
 ---
 
