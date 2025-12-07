@@ -91,22 +91,6 @@ Por ejemplo: decidir algo si una persona es mayor de edad, y luego dentro de ese
 ![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
 
 
-
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
-
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
-
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
-
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
-
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
-
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
-
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
-
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
 </details>
 
 ---
@@ -114,27 +98,106 @@ Por ejemplo: decidir algo si una persona es mayor de edad, y luego dentro de ese
 <details>
 <summary><h2>🔁 2. Estructuras Repetitivas</h2></summary>
 
-Las **estructuras repetitivas**, también llamadas *bucles*, permiten ejecutar un conjunto de instrucciones múltiples veces mientras cierta condición sea verdadera.
+## Contadores y Acumuladores — herramientas fundamentales en programación
 
-En esta unidad se profundizó en:
+Los contadores y acumuladores son mecanismos esenciales en los programas que requieren llevar un registro numérico de eventos, iteraciones, sumas progresivas o resultados parciales. Forman parte de las estructuras de control más comunes y permiten que un algoritmo procese datos paso a paso, actualizando valores a medida que avanza la ejecución. Programiz +2 DevsEnv +2
 
-### ✔️ *Mientras… hacer*
-Repite las instrucciones mientras la condición sea verdadera.
+Ambos se representan mediante variables numéricas, pero cumplen funciones distintas:
 
-### ✔️ *Repetir… hasta que*
-Ejecuta siempre al menos una vez, y se detiene cuando la condición se cumple.
+Un contador incrementa o decrementa su valor de forma controlada, generalmente en una cantidad fija (por ejemplo, +1).
 
-### ✔️ *Para… desde… hasta*
-Ideal para repeticiones controladas por contador.
+Un acumulador suma, resta u opera con valores que varían, almacenando un resultado progresivo.
 
-Se estudiaron también los elementos esenciales para controlar correctamente los ciclos:
+Codedamn +1
 
-- **Contadores**
-- **Acumuladores**
-- **Valores iniciales y finales**
-- **Incrementos y decrementos**
+Son indispensables al trabajar con ciclos, arreglos, listas, cálculos repetitivos, promedios, estadística, procesamiento de datos y más.
 
-Su correcta ubicación dentro del ciclo determina el comportamiento final del algoritmo.
+
+## 1. Estructura Mientras (While)
+
+### Definición y cuándo se usa
+La estructura mientras (en muchos lenguajes representada como while) ejecuta un bloque de código mientras una condición sea verdadera. Cuando deja de cumplirse, el programa continúa con la ejecución posterior. Programiz +2 JavaTPoint +2
+
+Se utiliza cuando no sabemos exactamente cuántas veces se repetirá un proceso, es decir, cuando el número de iteraciones depende de una condición que cambia durante la ejecución.
+
+Codedamn +1  
+Es fundamental asegurarse de que la condición cambie dentro del ciclo; de lo contrario, el programa puede caer en un bucle infinito.
+
+### Estructura general en C
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+### Ejemplo en C
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+---
+
+## 2. Estructura Hacer…Mientras (Repetir…Hasta)
+
+### Definición y cuándo se usa
+La estructura hacer…mientras (en muchos lenguajes do…while) ejecuta primero el bloque de código y después evalúa la condición. Esto garantiza que el ciclo se ejecute al menos una vez, incluso si la condición es inicialmente falsa. Programiz +2 GeeksForGeeks +2
+
+Es apropiada cuando necesitas que el usuario ingrese un dato mínimo una vez, validar una opción, o procesar un bloque que no debe omitirse.
+
+### Estructura general en C
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+### Ejemplo en C
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+## 3. Estructura Para (For)
+
+### Definición y cuándo se usa
+La estructura para (en muchos lenguajes for) se usa cuando el número de repeticiones es determinado. Su sintaxis incluye inicialización, condición y actualización, lo que la hace compacta y fácil de comprender. EII UVA +2 Noob to Master +2
+
+Es ideal para recorrer rangos numéricos, vectores, listas, archivos o ejecutar tareas un número fijo de veces.
+
+### Estructura general en C
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+### Ejemplo en C
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+---
+
+## 4. Anidamiento de estructuras repetitivas
+
+### Definición y cuándo se usa
+El anidamiento consiste en colocar un ciclo dentro de otro, igual que se hace con condicionales, pero aplicado a estructuras repetitivas. Esto permite manejar procesos de múltiples dimensiones: tablas, recorridos matriciales, combinaciones, doble iteración, etc. Prologicode +2 KoderHQ +2
+
+Se usa cuando se requiere recorrer estructuras complejas o repetir ciclos completos dentro de otros.
+
+### Estructura general en C
+
+![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+
+También se pueden anidar while, for, do…while entre sí.
+
+
+---
+
+## 5. Implementación de estructuras repetitivas en lenguajes de programación
+
+Aunque la sintaxis cambia según el lenguaje, la lógica fundamental es la misma: repetir operaciones según condiciones o rangos.
+
+### En Java
+Java usa:
+
+- while  
+- do … while  
+- for  
+- y el bucle especial for-each para recorrer colecciones.
+
+### En Python
+Python utiliza:
+
+- while  
+- for (que funciona como iterador sobre secuencias)  
+- no tiene do…while, pero puede simularse.
 
 </details>
 
