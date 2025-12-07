@@ -9,8 +9,7 @@
 
 ## 1. Introducción a las estructuras condicionales
 
-Las estructuras condicionales son herramientas fundamentales en los lenguajes de programación. Permiten que un programa “tome decisiones”: es decir, ejecutar unas líneas de código u otras dependiendo de si se cumple una condición determinada. Esto permite que el flujo del programa no sea siempre lineal, sino que varíe según datos, estados o criterios diferentes. Noob to Master +2 Abdul Wahab Junaid +2
-
+Las estructuras condicionales son herramientas fundamentales en los lenguajes de programación. Permiten que un programa “tome decisiones”: es decir, ejecutar unas líneas de código u otras dependiendo de si se cumple una condición determinada. Esto permite que el flujo del programa no sea siempre lineal, sino que varíe según datos, estados o criterios diferentes. 
 En general, las condiciones se escriben como expresiones lógicas (por ejemplo: “x > 0”, “edad == 18”, “letra == 'a'”, etc.), y su evaluación produce un resultado booleano: verdadero (true) o falso (false). Codedamn +1
 
 A continuación, analizamos los tipos principales de condicionales: simple, doble, múltiple y anidamiento.
@@ -43,34 +42,34 @@ Si solo hay una sentencia simple, las llaves { } pueden omitirse (aunque es una 
 
 ### Definición y cuándo se usa
 
-Cuando se necesita que el programa elija entre dos caminos alternativos —uno si la condición se cumple y otro si no— usamos una condicional doble. Es decir, definimos qué debe pasar cuando la condición es verdadera y qué debe pasar cuando es falsa. Esto permite manejar dos escenarios distintos. Portal Académico +2 DevsEnv +2
+(if-else-if). Cuando se necesita que el programa elija entre dos caminos alternativos —uno si la condición se cumple y otro si no— usamos una condicional doble. Es decir, definimos qué debe pasar cuando la condición es verdadera y qué debe pasar cuando es falsa. Esto permite manejar dos escenarios distintos. 
 
 Es apropiada cuando siempre debe tomarse una decisión: ya sea la condición se cumple o no, uno de los dos bloques debe ejecutarse.
 
 ### Estructura general en C
 
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+![Sintaxis If-elseif](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-elseif.png)
 
 ## 5. Estructura Condicional Múltiple (En caso de ... / Selección múltiple)
 
 ### Definición y cuándo se usa
 
 Cuando necesitamos evaluar varias condiciones alternativas (más de dos) para tomar decisiones, una cadena de if … else if … else es una posibilidad.
-El break es importante para evitar que al encontrar un caso verdadero se sigan ejecutando los casos siguientes. EII UVA +2 OCW Universidad de Cantabria +2
+El break es importante para evitar que al encontrar un caso verdadero se sigan ejecutando los casos siguientes. 
 
-Sin embargo, cuando las decisiones dependen del valor de una misma variable (por ejemplo, un menú de opciones, un valor numérico o un carácter, etc.), resulta más claro y manejable usar una estructura de selección múltiple con switch-case. EII UVA +2 Noob to Master +2
+Sin embargo, cuando las decisiones dependen del valor de una misma variable (por ejemplo, un menú de opciones, un valor numérico o un carácter, etc.), resulta más claro y manejable usar una estructura de selección múltiple con switch-case. 
 
-La estructura switch permite comparar una expresión con múltiples valores constantes, y ejecutar el bloque correspondiente cuando haya coincidencia. Si no hay coincidencia, puede haber una cláusula default como “caso por defecto”. EII UVA +2 OCW Universidad de Cantabria +2
+La estructura switch permite comparar una expresión con múltiples valores constantes, y ejecutar el bloque correspondiente cuando haya coincidencia. Si no hay coincidencia, puede haber una cláusula default como “caso por defecto”. 
 
 ### Estructura general en C
 
 Con if ... else if ... else:  
 
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+![Sintaxis If-elseif](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-elseif.png)
 
 Con switch-case:  
 
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+![Sintaxis switch](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/switch.png)
 
 El break es importante para evitar que al encontrar un caso verdadero se sigan ejecutando los casos siguientes. EII UVA +2 OCW Universidad de Cantabria +2
 
@@ -82,13 +81,13 @@ El break es importante para evitar que al encontrar un caso verdadero se sigan e
 
 El anidamiento consiste en colocar una estructura condicional dentro de otra. Esto permite tomar decisiones más complejas: primero evalúas una condición, y —si se cumple— dentro de ese bloque puedes evaluar otra condición, y así sucesivamente.
 
-Es útil cuando las decisiones dependen de múltiples criterios, en jerarquías de evaluación. Prologicode +2 KoderHQ +2
+Es útil cuando las decisiones dependen de múltiples criterios, en jerarquías de evaluación. 
 
 Por ejemplo: decidir algo si una persona es mayor de edad, y luego dentro de ese caso decidir algo distinto si también es mayor de cierta edad; o en un menú, si una opción es elegida, luego verificar otro valor para realizar una acción específica, etc.
 
 ### Estructura general en C
 
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+![Sintaxis anidamiento-condi](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/anidamiento-condi.png)
 
 
 </details>
@@ -100,7 +99,7 @@ Por ejemplo: decidir algo si una persona es mayor de edad, y luego dentro de ese
 
 ## Contadores y Acumuladores — herramientas fundamentales en programación
 
-Los contadores y acumuladores son mecanismos esenciales en los programas que requieren llevar un registro numérico de eventos, iteraciones, sumas progresivas o resultados parciales. Forman parte de las estructuras de control más comunes y permiten que un algoritmo procese datos paso a paso, actualizando valores a medida que avanza la ejecución. Programiz +2 DevsEnv +2
+Los contadores y acumuladores son mecanismos esenciales en los programas que requieren llevar un registro numérico de eventos, iteraciones, sumas progresivas o resultados parciales. Forman parte de las estructuras de control más comunes y permiten que un algoritmo procese datos paso a paso, actualizando valores a medida que avanza la ejecución. 
 
 Ambos se representan mediante variables numéricas, pero cumplen funciones distintas:
 
@@ -108,72 +107,69 @@ Un contador incrementa o decrementa su valor de forma controlada, generalmente e
 
 Un acumulador suma, resta u opera con valores que varían, almacenando un resultado progresivo.
 
-Codedamn +1
-
 Son indispensables al trabajar con ciclos, arreglos, listas, cálculos repetitivos, promedios, estadística, procesamiento de datos y más.
 
 
 ## 1. Estructura Mientras (While)
 
 ### Definición y cuándo se usa
-La estructura mientras (en muchos lenguajes representada como while) ejecuta un bloque de código mientras una condición sea verdadera. Cuando deja de cumplirse, el programa continúa con la ejecución posterior. Programiz +2 JavaTPoint +2
+La estructura mientras (en muchos lenguajes representada como while) ejecuta un bloque de código mientras una condición sea verdadera. Cuando deja de cumplirse, el programa continúa con la ejecución posterior. 
 
 Se utiliza cuando no sabemos exactamente cuántas veces se repetirá un proceso, es decir, cuando el número de iteraciones depende de una condición que cambia durante la ejecución.
 
-Codedamn +1  
+ 
 Es fundamental asegurarse de que la condición cambie dentro del ciclo; de lo contrario, el programa puede caer en un bucle infinito.
 
 ### Estructura general en C
 
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+![Sintaxis while](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/while.png)
 
 ### Ejemplo en C
 
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+![Sintaxis ejemplo-while](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/ejemplo-while.png)
 
 ---
 
-## 2. Estructura Hacer…Mientras (Repetir…Hasta)
+## 2. Estructura Hacer…Mientras (do-while)
 
 ### Definición y cuándo se usa
-La estructura hacer…mientras (en muchos lenguajes do…while) ejecuta primero el bloque de código y después evalúa la condición. Esto garantiza que el ciclo se ejecute al menos una vez, incluso si la condición es inicialmente falsa. Programiz +2 GeeksForGeeks +2
+La estructura hacer…mientras (en muchos lenguajes do…while) ejecuta primero el bloque de código y después evalúa la condición. Esto garantiza que el ciclo se ejecute al menos una vez, incluso si la condición es inicialmente falsa. 
 
 Es apropiada cuando necesitas que el usuario ingrese un dato mínimo una vez, validar una opción, o procesar un bloque que no debe omitirse.
 
 ### Estructura general en C
 
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+![Sintaxis do](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/do.png)
 
 ### Ejemplo en C
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+![Sintaxis ejemplo-do](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/ejemplo-do.png)
 
 ## 3. Estructura Para (For)
 
 ### Definición y cuándo se usa
-La estructura para (en muchos lenguajes for) se usa cuando el número de repeticiones es determinado. Su sintaxis incluye inicialización, condición y actualización, lo que la hace compacta y fácil de comprender. EII UVA +2 Noob to Master +2
-
+La estructura para (en muchos lenguajes for) se usa cuando el número de repeticiones es determinado. Su sintaxis incluye inicialización, condición y actualización, lo que la hace compacta y fácil de comprender. 
 Es ideal para recorrer rangos numéricos, vectores, listas, archivos o ejecutar tareas un número fijo de veces.
 
 ### Estructura general en C
 
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+![Sintaxis for](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/for.png)
 
 ### Ejemplo en C
 
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+![Sintaxis ejemplo-for](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/ejemplo-for.png)
 
 ---
 
 ## 4. Anidamiento de estructuras repetitivas
 
 ### Definición y cuándo se usa
-El anidamiento consiste en colocar un ciclo dentro de otro, igual que se hace con condicionales, pero aplicado a estructuras repetitivas. Esto permite manejar procesos de múltiples dimensiones: tablas, recorridos matriciales, combinaciones, doble iteración, etc. Prologicode +2 KoderHQ +2
+El anidamiento consiste en colocar un ciclo dentro de otro, igual que se hace con condicionales, pero aplicado a estructuras repetitivas. Esto permite manejar procesos de múltiples dimensiones: tablas, recorridos matriciales, combinaciones, doble iteración, etc. 
 
 Se usa cuando se requiere recorrer estructuras complejas o repetir ciclos completos dentro de otros.
 
 ### Estructura general en C
 
-![Sintaxis If-else](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/if-else.png)
+![Sintaxis anidamiento-bucles](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/anidamiento-bucles.png)
 
 También se pueden anidar while, for, do…while entre sí.
 
