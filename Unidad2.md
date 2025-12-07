@@ -213,7 +213,7 @@ Por lo tanto, **6 es un número perfecto**.
 # Diagrama de flujo  
 ![Sintaxis del diagrama de flujo](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/Diagrama-py.png)
 # Código en Python
-![Sintaxis del codigo](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/codigo-py.png)
+![Sintaxis del codigo](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/Código-py.png)
 # Verificacion
 ![Verificacion del problema](https://raw.githubusercontent.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/main/img/Prueba-py.png)
 
