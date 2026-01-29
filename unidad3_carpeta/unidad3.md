@@ -103,3 +103,98 @@ Este tipo de pase es el más común y, en muchos lenguajes, es el comportamiento
 - Ejemplo conceptual: `funcion(&variable)`.
 
 Estos símbolos indican que la función trabajará directamente con la variable original [3].
+
+---
+
+## 📦 Arreglos y Arrays
+
+### Concepto general de arreglo / array
+Un arreglo, también llamado **array**, es una estructura de datos que permite almacenar un conjunto de elementos del mismo tipo bajo un mismo nombre. Estos elementos se guardan en posiciones contiguas de memoria y se accede a cada uno de ellos mediante un índice numérico. El tamaño del arreglo se define al momento de su declaración y, una vez establecido, no puede modificarse durante la ejecución del programa [1].
+
+Los arreglos facilitan el manejo de grandes cantidades de información relacionada, ya que permiten trabajar con listas de datos de forma ordenada y eficiente [1].
+
+---
+
+### Características de los arreglos
+- Almacenan datos del mismo tipo (enteros, reales, caracteres, etc.) [1].
+- Ocupan posiciones consecutivas de memoria.
+- Cada elemento se identifica mediante un índice [2].
+- El tamaño del arreglo es fijo.
+- Permiten acceso directo y rápido a cualquier elemento.
+
+---
+
+### ¿Para qué sirven los arreglos?
+Los arreglos se utilizan para:
+- Almacenar listas de datos relacionados.
+- Organizar información de forma estructurada.
+- Simplificar el uso de ciclos para recorrer datos.
+- Reducir la cantidad de variables necesarias en un programa.
+
+Son ampliamente usados para manejar calificaciones, temperaturas, señales, vectores matemáticos y datos experimentales [3].
+
+---
+
+## ➡️ Arreglos unidimensionales
+
+### Definición
+Un arreglo unidimensional es una estructura de una sola dimensión, similar a una lista o vector. Cada elemento se accede mediante un único índice [3].
+
+---
+
+### Características
+- Poseen una sola dimensión [1].
+- Se accede a sus elementos con un solo índice [2].
+- El primer elemento se encuentra en la posición cero.
+- Se almacenan de forma continua en memoria.
+
+---
+
+### Aplicaciones
+- Registro de notas de estudiantes [2].
+- Almacenamiento de temperaturas diarias [2].
+- Manejo de vectores matemáticos.
+
+---
+
+## ⬜ Arreglos bidimensionales
+
+### Definición
+Un arreglo bidimensional es una estructura de datos organizada en filas y columnas, equivalente al concepto matemático de una matriz [3].
+
+---
+
+### Características
+- Poseen dos dimensiones: filas y columnas.
+- Cada elemento se identifica mediante dos índices [2].
+- Todos los datos son del mismo tipo.
+- Internamente se almacenan de manera continua en memoria [2].
+
+---
+
+### Aplicaciones
+- Representación de tablas de datos [3].
+- Manejo de calificaciones por estudiante y materia [3].
+- Modelado de información en forma matricial.
+
+---
+
+## 🧊 Arreglos tridimensionales
+
+### Definición
+Los arreglos tridimensionales son una extensión de los arreglos bidimensionales, incorporando una tercera dimensión. Permiten organizar datos en estructuras más complejas [1].
+
+---
+
+### Características
+- Poseen tres dimensiones [2].
+- Se accede a sus elementos mediante tres índices.
+- Son útiles para representar información jerárquica o espacial [2].
+
+---
+
+### Aplicaciones
+- Representación de objetos en el espacio [1].
+- Modelado de estructuras físicas o científicas.
+- Organización de datos por capas, niveles o instantes de tiempo.
+
