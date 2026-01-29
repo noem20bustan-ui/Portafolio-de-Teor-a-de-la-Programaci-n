@@ -263,3 +263,35 @@ En este ejemplo se muestra el uso de un **arreglo tridimensional**, el cual orga
 
 ---
 
+<details>
+<summary><h2>📚 Tareas entregadas</h2></summary>
+
+| Nº | Actividad | Descripción | Enlace |
+|----|------------|-------------|--------|
+| 1️⃣ | 🧩 **Construcción de funciones y procedimientos en un lenguaje de programación** | APE 1 | [Ver Tarea 1](https://drive.google.com/file/d/1g9jBOSgn4a8fBV6fbbVmCSo9p23GuECZ/view?usp=sharing) |
+| 2️⃣ | 💻 **Implementacion de funciones utilizando el paso de parámetros por valor y por referencia** | APE 2 | [Ver Tarea 2](https://drive.google.com/file/d/1WqB9gOO1MVkSQG2gboXgAZtMECWPCOCx/view?usp=sharing) |
+| 3️⃣ | 🧠 **Curso Fundamentos de Python 1. Computación UNL** | AA 1 | [Ver Tarea 3](https://drive.google.com/file/d/11hB80y0KaeanfnjMc8FXbO56Mh0eG4-L/view?usp=sharing) |
+
+
+</details>
+
+---
+### 🧩 Principales dificultades en la aplicación de los contenidos
+
+Durante el desarrollo de la Unidad 3, una de las principales dificultades fue entender correctamente el uso de las funciones y el pase de parámetros. En especial, al inicio fue complicado diferenciar entre el pase por valor y el pase por referencia, ya que no siempre era evidente por qué algunas variables cambiaban su valor y otras no al salir de una función.
+
+También se presentaron dificultades en el manejo de los arreglos, sobre todo en los arreglos bidimensionales y tridimensionales. El uso de varios índices y el orden correcto de filas, columnas y dimensiones requirió mayor atención, ya que un pequeño error podía provocar fallos en el programa o resultados incorrectos.
+
+---
+### 📌 Reflexión crítica de los aprendizajes de la unidad
+
+En esta unidad aprendí a organizar mejor mis programas mediante el uso de la programación modular. Trabajar con funciones me ayudó a dividir los problemas y a entender el código con mayor claridad.
+
+También comprendí la diferencia entre el pase de parámetros por valor y por referencia, lo cual me permitió entender por qué algunas variables cambian y otras no al usar funciones. Esto fue importante para evitar errores en mis programas.
+
+Finalmente, el uso de arreglos en una, dos y tres dimensiones me ayudó a manejar mejor la información dentro del código y a trabajar de forma más ordenada.
+
+ ---
+
+> 📘 *Portafolio Académico — Teoria de la programacion — Universidad Nacional de Loja*
+
