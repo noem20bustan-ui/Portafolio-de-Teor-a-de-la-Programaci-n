@@ -3,7 +3,9 @@
 
 ---
 
-## 📘 Programación modular
+<details>
+
+<summary><h2>📘 Programación modular</h2></summary>
 
 ### ¿Qué es la programación modular?
 La programación modular es un enfoque de desarrollo de software que consiste en dividir un programa grande en partes más pequeñas y manejables llamadas **módulos**. Cada módulo resuelve un problema específico y puede desarrollarse, probarse y mantenerse de manera independiente. Este enfoque facilita la comprensión del programa y reduce la complejidad del desarrollo [1].
@@ -19,7 +21,7 @@ La programación modular es un enfoque de desarrollo de software que consiste en
 
 ---
 
-## 🔧 Funciones en la programación modular
+<summary><h2>🔧 Funciones en la programación modular</h2></summary>
 
 Las funciones son bloques de código que realizan una tarea específica dentro de un programa. En la programación modular, las funciones permiten estructurar el código y separar responsabilidades [2].
 
@@ -38,7 +40,8 @@ Las funciones sirven para organizar el código, evitar repeticiones, facilitar l
 
 ---
 
-## 🔄 Tipos de funciones según el pase de parámetros
+<summary><h2>🔄 Tipos de funciones según el pase de parámetros</h2></summary>
+
 
 ---
 
@@ -87,11 +90,12 @@ El pase por referencia se emplea cuando es necesario actualizar valores, interca
 - El pase por referencia permite modificar directamente los datos.
 - El pase por valor es más seguro, mientras que el pase por referencia es más eficiente en ciertos casos [3].
 ---
-### 🧪 Ejemplo: Pase de parámetros por valor
 
-👉 [Ver ejemplo en código C](paseDeParametrosValor.c)
+### 🧪 Ejemplo: Pase de parámetros por referencia
 
-En este ejemplo se observa que los valores originales de las variables **no se modifican**, ya que la función trabaja únicamente con copias de los datos enviados como parámetros.
+👉 [Ver ejemplo en código C](paseDeParametros.c)
+
+En este ejemplo se observa que los valores originales de las variables **sí se modifican**, ya que la función trabaja directamente con la **dirección de memoria** de los datos enviados como parámetros. Por esta razón, cualquier cambio realizado dentro de la función se refleja fuera de ella.
 
 ---
 
@@ -118,6 +122,7 @@ Este tipo de pase es el más común y, en muchos lenguajes, es el comportamiento
 
 Estos símbolos indican que la función trabajará directamente con la variable original [3].
 
+</details>
 ---
 
 ## 📦 Arreglos y Arrays
@@ -168,6 +173,12 @@ Un arreglo unidimensional es una estructura de una sola dimensión, similar a un
 - Registro de notas de estudiantes [2].
 - Almacenamiento de temperaturas diarias [2].
 - Manejo de vectores matemáticos.
+---
+### 🧪 Ejemplo: Arreglos Unidimencionales
+
+👉 [Ver ejemplo en código C](arregloUnidimencional.c)
+
+En este ejemplo se muestra el uso de un **arreglo unidimensional**, donde varios elementos del mismo tipo se almacenan bajo un mismo nombre y se accede a cada uno de ellos mediante un **índice numérico**.
 
 ---
 
@@ -190,6 +201,12 @@ Un arreglo bidimensional es una estructura de datos organizada en filas y column
 - Representación de tablas de datos [3].
 - Manejo de calificaciones por estudiante y materia [3].
 - Modelado de información en forma matricial.
+---
+### 🧪 Ejemplo: Arreglos Bidimencionales
+
+👉 [Ver ejemplo en código C](arregloBidimencional.c)
+
+En este ejemplo se presenta el uso de un **arreglo bidimensional**, organizado en **filas y columnas**, similar a una matriz. El código muestra cómo declarar el arreglo, asignar valores a sus elementos y acceder a ellos mediante **dos índices**.
 
 ---
 
@@ -211,4 +228,12 @@ Los arreglos tridimensionales son una extensión de los arreglos bidimensionales
 - Representación de objetos en el espacio [1].
 - Modelado de estructuras físicas o científicas.
 - Organización de datos por capas, niveles o instantes de tiempo.
+---
+### 🧪 Ejemplo: Arreglos Trimimencionales
+
+👉 [Ver ejemplo en código C](arregloTridimencional.c)
+
+En este ejemplo se muestra el uso de un **arreglo tridimensional**, el cual organiza los datos en **tres dimensiones**, permitiendo acceder a cada elemento mediante **tres índices**. Este tipo de arreglo es útil para representar información estructurada por capas, niveles o instantes de tiempo.
+
+---
 
