@@ -12,5 +12,5 @@ int main(){
    for(int i=0; i<=5; i++){
         printf("Elemento en la posicion %i\n = %i\n", i, lista[i]);
     }
-   return 0;*/
+   return 0;
 }
