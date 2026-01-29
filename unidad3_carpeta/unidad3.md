@@ -56,6 +56,13 @@ En este tipo de pase, la función trabaja con una variable local que contiene el
 #### Uso del pase por valor
 El pase por valor se utiliza cuando no se desea alterar la información original, como en cálculos matemáticos, validaciones o procesos donde los datos solo deben ser leídos [2].
 
+### 🧪 Ejemplo: Pase de parámetros por valor
+
+👉 [Ver ejemplo en código C](paseDeParametrosValor.c)
+
+En este ejemplo se observa que los valores originales de las variables **no se modifican**, ya que la función trabaja únicamente con copias de los datos enviados como parámetros.
+
+
 ---
 
 ### 📤 Pase de parámetros por referencia
