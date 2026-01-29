@@ -5,7 +5,7 @@
 
 <details>
 
-<summary><h2>📘 Programación modular</h2></summary>
+<summary><h2>📘 Programación modular</strong></summary>
 
 ### ¿Qué es la programación modular?
 La programación modular es un enfoque de desarrollo de software que consiste en dividir un programa grande en partes más pequeñas y manejables llamadas **módulos**. Cada módulo resuelve un problema específico y puede desarrollarse, probarse y mantenerse de manera independiente. Este enfoque facilita la comprensión del programa y reduce la complejidad del desarrollo [1].
@@ -19,9 +19,12 @@ La programación modular es un enfoque de desarrollo de software que consiste en
 - **Encapsulamiento:** los detalles internos del módulo no son visibles para otros módulos.
 - **Mantenimiento sencillo:** los cambios en un módulo afectan mínimamente al resto del sistema [2].
 
+</details>
+
 ---
 
-<summary><h2>🔧 Funciones en la programación modular</h2></summary>
+<details>
+<summary><h2>🔧 Funciones en la programación modular</strong></summary>
 
 Las funciones son bloques de código que realizan una tarea específica dentro de un programa. En la programación modular, las funciones permiten estructurar el código y separar responsabilidades [2].
 
@@ -38,9 +41,13 @@ Las funciones son bloques de código que realizan una tarea específica dentro d
 ### ¿Para qué sirven las funciones?
 Las funciones sirven para organizar el código, evitar repeticiones, facilitar la lectura del programa y permitir la reutilización de soluciones ya implementadas [3].
 
+</details>
+
 ---
 
-<summary><h2>🔄 Tipos de funciones según el pase de parámetros</h2></summary>
+<details>
+  
+<summary><h2>🔄 Tipos de funciones según el pase de parámetros</strong></summary>
 
 
 ---
@@ -123,9 +130,12 @@ Este tipo de pase es el más común y, en muchos lenguajes, es el comportamiento
 Estos símbolos indican que la función trabajará directamente con la variable original [3].
 
 </details>
+
 ---
 
-## 📦 Arreglos y Arrays
+<details>
+
+<summary><h2>📦 Arreglos y Arrays</strong></summary>
 
 ### Concepto general de arreglo / array
 Un arreglo, también llamado **array**, es una estructura de datos que permite almacenar un conjunto de elementos del mismo tipo bajo un mismo nombre. Estos elementos se guardan en posiciones contiguas de memoria y se accede a cada uno de ellos mediante un índice numérico. El tamaño del arreglo se define al momento de su declaración y, una vez establecido, no puede modificarse durante la ejecución del programa [1].
@@ -152,9 +162,13 @@ Los arreglos se utilizan para:
 
 Son ampliamente usados para manejar calificaciones, temperaturas, señales, vectores matemáticos y datos experimentales [3].
 
+</details>
+
 ---
 
-## ➡️ Arreglos unidimensionales
+<details>
+
+<summary><h2>➡️ Arreglos unidimensionales</strong></summary>
 
 ### Definición
 Un arreglo unidimensional es una estructura de una sola dimensión, similar a una lista o vector. Cada elemento se accede mediante un único índice [3].
@@ -180,9 +194,13 @@ Un arreglo unidimensional es una estructura de una sola dimensión, similar a un
 
 En este ejemplo se muestra el uso de un **arreglo unidimensional**, donde varios elementos del mismo tipo se almacenan bajo un mismo nombre y se accede a cada uno de ellos mediante un **índice numérico**.
 
+</details>
+
 ---
 
-## ⬜ Arreglos bidimensionales
+<details>
+
+<summary><h2>⬜ Arreglos bidimensionales</strong></summary>
 
 ### Definición
 Un arreglo bidimensional es una estructura de datos organizada en filas y columnas, equivalente al concepto matemático de una matriz [3].
@@ -208,9 +226,14 @@ Un arreglo bidimensional es una estructura de datos organizada en filas y column
 
 En este ejemplo se presenta el uso de un **arreglo bidimensional**, organizado en **filas y columnas**, similar a una matriz. El código muestra cómo declarar el arreglo, asignar valores a sus elementos y acceder a ellos mediante **dos índices**.
 
+
+</details>
+
 ---
 
-## 🧊 Arreglos tridimensionales
+<details>
+
+<summary><h2>🧊 Arreglos Tridimensionales</strong></summary>
 
 ### Definición
 Los arreglos tridimensionales son una extensión de los arreglos bidimensionales, incorporando una tercera dimensión. Permiten organizar datos en estructuras más complejas [1].
@@ -234,6 +257,9 @@ Los arreglos tridimensionales son una extensión de los arreglos bidimensionales
 👉 [Ver ejemplo en código C](arregloTridimencional.c)
 
 En este ejemplo se muestra el uso de un **arreglo tridimensional**, el cual organiza los datos en **tres dimensiones**, permitiendo acceder a cada elemento mediante **tres índices**. Este tipo de arreglo es útil para representar información estructurada por capas, niveles o instantes de tiempo.
+
+
+</details>
 
 ---
 
