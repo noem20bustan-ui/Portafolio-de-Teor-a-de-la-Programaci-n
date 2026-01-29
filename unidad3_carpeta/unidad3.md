@@ -86,6 +86,12 @@ El pase por referencia se emplea cuando es necesario actualizar valores, interca
 - El pase por valor protege la información original.
 - El pase por referencia permite modificar directamente los datos.
 - El pase por valor es más seguro, mientras que el pase por referencia es más eficiente en ciertos casos [3].
+---
+### 🧪 Ejemplo: Pase de parámetros por valor
+
+👉 [Ver ejemplo en código C](paseDeParametrosValor.c)
+
+En este ejemplo se observa que los valores originales de las variables **no se modifican**, ya que la función trabaja únicamente con copias de los datos enviados como parámetros.
 
 ---
 
