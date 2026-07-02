@@ -35,17 +35,16 @@
 ---
 
 ## ⚠️ Principales Dificultades Detectadas
-Una de las dificultades más frecuentes fue **traducir el razonamiento lógico al código**, especialmente al declarar variables, utilizar correctamente operadores y respetar la **sintaxis** del lenguaje.  
-También se presentaron errores por el uso incorrecto de símbolos y delimitadores.  
+Durante el desarrollo de esta unidad, una de las principales dificultades fue **comprender** cómo representar situaciones reales mediante modelos probabilísticos adecuados. Al inicio era complejo identificar el espacio muestral, los eventos y las diferentes formas de calcular probabilidades según el contexto del problema.
+
+Asimismo, interpretar los resultados obtenidos en las simulaciones y relacionarlos con los conceptos teóricos resulto dificil.
 
 ---
 
 ## 💭 Reflexión Crítica
-Durante esta unidad comprendí que programar es, ante todo, **pensar de manera lógica y organizada**.  
-El uso del pseudocódigo permite estructurar ideas, definir datos y planificar soluciones antes de escribir código. Además, realizar **pruebas de escritorio** ayuda a identificar errores sin necesidad de ejecutar el programa.  
+Esta unidad me permitió comprender que la probabilidad constituye una herramienta fundamental para analizar la incertidumbre y modelar fenómenos aleatorios presentes en distintas áreas del conocimiento. A través del estudio de los espacios muestrales, eventos, reglas de probabilidad y simulaciones, fortalecí mi capacidad para interpretar problemas desde una perspectiva probabilística.
 
-Siento que trabajé bien al identificar errores y comprender el funcionamiento de las instrucciones. Sin embargo, aún debo mejorar la **traducción del pseudocódigo a un lenguaje de programación**, especialmente en cuanto a sintaxis y selección de sentencias adecuadas.  
-
+Las actividades desarrolladas me ayudaron a entender que los modelos probabilísticos no solo describen el comportamiento de procesos aleatorios, sino que también facilitan la toma de decisiones basada en evidencia.
 ---
 
 
