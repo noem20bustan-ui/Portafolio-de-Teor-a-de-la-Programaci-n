@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧩 Unidad 1 — Algoritmos y Estructuras Secuenciales  
+# 🧩 Unidad 1 — INTRODUCCIÓN A LA PROBABILIDAD. MODELOS PROBABILÍSTICOS
 
 ---
 
