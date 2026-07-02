@@ -27,11 +27,11 @@
 | Nº | Actividad | Descripción | Enlace |
 |----|------------|-------------|--------|
 | 1️⃣ | 🧩 **APE00** | Simulaciones de Monte Carlo y graficación para visualizar la Ley de los Grandes Números. | [Ver APE 00](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/blob/main/unidad1/APE00.ipynb) |
-| 2️⃣ | 💻 **Instalación de lenguajes** | Modelado de control de calidad y servidores web usando distribuciones Binomiales y Normales, diferenciando variables discretas de continuas y calculando sus métricas estadísticas. | [Ver Tarea 2](https://drive.google.com/file/d/1Jc6zVyShcyrnG4cg1bK00uLtHNyj8kfi/view?usp=sharing) |
-| 3️⃣ | 🧠 **Primer acercamiento** | Teorema del Límite Central con simulaciones de Monte Carlo, construyendo intervalos de confianza ($z$, $t$, $\chi^2$) | [Ver Tarea 3](https://drive.google.com/file/d/1SLboYDiEZJBnluvBBm8XdPh35Owha0Zo/view?usp=sharing) |
-| 4️⃣ | ⚙️ **Del diseño al programa** |Modelado fenómenos reales y clasificacion de variables discretas y continuas mediante funciones PMF, PDF y CDF | [Ver Tarea 4](https://drive.google.com/file/d/111MfQ9oO4RabY0mmf6SDrkK2UgdKd1D-/view?usp=sharing) |
-| 4️⃣ | ⚙️ **Del diseño al programa** |La esperanza y varianza con scipy.stats, aplicando análisis de tendencia central y dispersión a los conjuntos de datos | [Ver Tarea 4](https://drive.google.com/file/d/111MfQ9oO4RabY0mmf6SDrkK2UgdKd1D-/view?usp=sharing) |
-| 4️⃣ | ⚙️ **Del diseño al programa** |Modelar fenómenos con distribuciones binomial y de Poisson mediante scipy.stats. | [Ver Tarea 4](https://drive.google.com/file/d/111MfQ9oO4RabY0mmf6SDrkK2UgdKd1D-/view?usp=sharing) |
+| 2️⃣ | 💻 **APE01** | Modelado de control de calidad y servidores web usando distribuciones Binomiales y Normales, diferenciando variables discretas de continuas y calculando sus métricas estadísticas. | [Ver APE01](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/blob/main/unidad1/APE01(2).ipynb) |
+| 3️⃣ | 🧠 **APE02** | Teorema del Límite Central con simulaciones de Monte Carlo, construyendo intervalos de confianza ($z$, $t$, $\chi^2$) | [Ver Tarea 3](https://drive.google.com/file/d/1SLboYDiEZJBnluvBBm8XdPh35Owha0Zo/view?usp=sharing) |
+| 4️⃣ | ⚙️ **APE03** |Modelado fenómenos reales y clasificacion de variables discretas y continuas mediante funciones PMF, PDF y CDF | [Ver Tarea 4](https://drive.google.com/file/d/111MfQ9oO4RabY0mmf6SDrkK2UgdKd1D-/view?usp=sharing) |
+| 4️⃣ | ⚙️ **APE04** |La esperanza y varianza con scipy.stats, aplicando análisis de tendencia central y dispersión a los conjuntos de datos | [Ver Tarea 4](https://drive.google.com/file/d/111MfQ9oO4RabY0mmf6SDrkK2UgdKd1D-/view?usp=sharing) |
+| 4️⃣ | ⚙️ **APE05** |Modelar fenómenos con distribuciones binomial y de Poisson mediante scipy.stats. | [Ver Tarea 4](https://drive.google.com/file/d/111MfQ9oO4RabY0mmf6SDrkK2UgdKd1D-/view?usp=sharing) |
 ---
 
 ## ⚠️ Principales Dificultades Detectadas
