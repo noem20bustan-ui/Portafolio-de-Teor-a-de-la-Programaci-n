@@ -44,7 +44,8 @@ Asimismo, interpretar los resultados obtenidos en las simulaciones y relacionarl
 ## 💭 Reflexión Crítica
 Esta unidad me permitió comprender que la probabilidad constituye una herramienta fundamental para analizar la incertidumbre y modelar fenómenos aleatorios presentes en distintas áreas del conocimiento. A través del estudio de los espacios muestrales, eventos, reglas de probabilidad y simulaciones, fortalecí mi capacidad para interpretar problemas desde una perspectiva probabilística.
 
-Las actividades desarrolladas me ayudaron a entender que los modelos probabilísticos no solo describen el comportamiento de procesos aleatorios, sino que también facilitan la toma de decisiones basada en evidencia.
+Las actividades desarrolladas me ayudaron a entender que los modelos probabilisticos no solo describen el comportamiento de procesos aleatorias , sino que tambuen facilitan la toma de decisiones basadas en evidencia
+
 ---
 
 
