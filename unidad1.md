@@ -34,7 +34,7 @@
 | 4️⃣ | ⚙️ **APE05** |Modelar fenómenos con distribuciones binomial y de Poisson mediante scipy.stats. | [Ver APE05](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad1/APE_06__GrupoD.ipynb) |
 ---
 
-** 📚 Evaluación Sumativa Unidad 01 
+## 📚 Evaluación Sumativa Unidad 01 
 
 | Nº | Actividad | Descripción | Enlace |
 |----|------------|-------------|--------|
