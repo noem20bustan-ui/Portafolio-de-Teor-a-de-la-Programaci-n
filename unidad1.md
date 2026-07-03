@@ -60,6 +60,8 @@ Esta unidad me permitió comprender que la probabilidad constituye una herramien
 
 Las actividades desarrolladas me ayudaron a entender que los modelos probabilisticos no solo describen el comportamiento de procesos aleatorias , sino que tambuen facilitan la toma de decisiones basadas en evidencia
 
+Sin embargo, aún debo mejorar mi tiempo de desarrollo al programar las simulaciones estocásticas. Además, necesito incrementar la rapidez y la certeza al momento de plantear espacios muestrales complejos usando herramientas avanzadas como itertools sin confundirme en la lógica del problema.
+
 ---
 
 
