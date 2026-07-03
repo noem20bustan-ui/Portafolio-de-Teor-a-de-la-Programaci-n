@@ -25,10 +25,11 @@
 
 | Nº | Actividad | Descripción | Enlace |
 |----|------------|-------------|--------|
-| 6️⃣ | 🧩 **Aplicaion de estructuras condicionales en la resolucion de problemas** | APE 1 | [Ver Tarea 1](https://drive.google.com/file/d/19j6dx-yoKMpiOZDX0IXRca-Qc_huWHOa/view?usp=sharing) |
-| 7️⃣ | 💻 **Aplicaion de estructuras repetitivas en la resolucion de problemas** | APE 2 | [Ver Tarea 2](https://drive.google.com/file/d/1mcQ7-DmnYwzUNdr0uI5I10ricC61cxYp/view?usp=sharing) |
-| 8️⃣ | 🧠 **Diferencias entrer los tipos de estructuras condicionales** | AA 1 | [Ver Tarea 3](https://drive.google.com/file/d/1WDfdJpODP4Tu-k-C6_lokMjZWC2A51TD/view?usp=sharing) |
-| 9️⃣ | ⚙️ **Cuadro comparativo entre las estructuras repetitivas** | AA 2 | [Ver Tarea 4](https://drive.google.com/file/d/1il0yI7PBZLpCC1tVznO3PZ1woeGEPO9L/view?usp=sharing) |
+| 6️⃣ | 🧩 **AOE06** | evaluar el comportamiento de variables continuas regionales usando scipy.stats y statsmodels | [Ver APE 06](https://drive.google.com/file/d/19j6dx-yoKMpiOZDX0IXRca-Qc_huWHOa/view?usp=sharing) |
+| 7️⃣ | 💻 **APE07** | Práctica basada en ABP y ABI con Python para demostrar el Teorema del Límite Central, analizando cómo las medias de muestras de datos regionales de Loja | [Ver APE 07](https://drive.google.com/file/d/1mcQ7-DmnYwzUNdr0uI5I10ricC61cxYp/view?usp=sharing) |
+| 8️⃣ | 🧠 **APE08** | Práctica basada en ABP y ABI para calcular e interpretar intervalos de confianza usando distribuciones Z y T de Student | [Ver APE 08](https://drive.google.com/file/d/1WDfdJpODP4Tu-k-C6_lokMjZWC2A51TD/view?usp=sharing) |
+| 9️⃣ | ⚙️ **APE09** | Pruebas de hipótesis Z y T, contrastando métricas de el dataset regional y analizando el impacto del tamaño de la muestra sobre el valor-p | [Ver APE 09](https://drive.google.com/file/d/1il0yI7PBZLpCC1tVznO3PZ1woeGEPO9L/view?usp=sharing) |
+| 🔟 | ✏️ **APE10** | Ejecutar e interpretar pruebas de hipótesis para dos muestras (independientes y pareadas) y validar la homocedasticidad con el Test de Levene, dominando el A/B Testing y la Prueba T de Welch | [Ver APE 10](https://drive.google.com/file/d/1il0yI7PBZLpCC1tVznO3PZ1woeGEPO9L/view?usp=sharing) |
 
 </details>
 
