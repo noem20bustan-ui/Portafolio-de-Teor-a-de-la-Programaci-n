@@ -30,8 +30,8 @@
 | 2️⃣ | 💻 **APE01** | Modelado de control de calidad y servidores web usando distribuciones Binomiales y Normales, diferenciando variables discretas de continuas y calculando sus métricas estadísticas. | [Ver APE01](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/blob/main/unidad1/APE01(2).ipynb) |
 | 3️⃣ | 🧠 **APE02** | Teorema del Límite Central con simulaciones de Monte Carlo, construyendo intervalos de confianza ($z$, $t$, $\chi^2$) | [Ver APE02](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad1/APE03_GrupoD.ipynb) |
 | 4️⃣ | ⚙️ **APE03** |Modelado fenómenos reales y clasificacion de variables discretas y continuas mediante funciones PMF, PDF y CDF | [Ver APE03](https://drive.google.com/file/d/111MfQ9oO4RabY0mmf6SDrkK2UgdKd1D-/view?usp=sharing) |
-| 4️⃣ | ⚙️ **APE04** |La esperanza y varianza con scipy.stats, aplicando análisis de tendencia central y dispersión a los conjuntos de datos | [Ver APE04](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad1/Captura%20de%20pantalla%202026-07-02%20100540.png) |
-| 4️⃣ | ⚙️ **APE05** |Modelar fenómenos con distribuciones binomial y de Poisson mediante scipy.stats. | [Ver APE05](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad1/APE_06__GrupoD.ipynb) |
+| 5️⃣ | ⚙️ **APE04** |La esperanza y varianza con scipy.stats, aplicando análisis de tendencia central y dispersión a los conjuntos de datos | [Ver APE04](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad1/Captura%20de%20pantalla%202026-07-02%20100540.png) |
+| 6️⃣ | ⚙️ **APE05** |Modelar fenómenos con distribuciones binomial y de Poisson mediante scipy.stats. | [Ver APE05](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad1/APE_06__GrupoD.ipynb) |
 ---
 
 ## 📚 Evaluación Sumativa Unidad 01 
