@@ -25,11 +25,11 @@
 
 | Nº | Actividad | Descripción | Enlace |
 |----|------------|-------------|--------|
-| 6️⃣ | 🧩 **AOE06** | evaluar el comportamiento de variables continuas regionales usando scipy.stats y statsmodels | [Ver APE 06](https://drive.google.com/file/d/19j6dx-yoKMpiOZDX0IXRca-Qc_huWHOa/view?usp=sharing) |
-| 7️⃣ | 💻 **APE07** | Práctica basada en ABP y ABI con Python para demostrar el Teorema del Límite Central, analizando cómo las medias de muestras de datos regionales de Loja | [Ver APE 07](https://drive.google.com/file/d/1mcQ7-DmnYwzUNdr0uI5I10ricC61cxYp/view?usp=sharing) |
-| 8️⃣ | 🧠 **APE08** | Práctica basada en ABP y ABI para calcular e interpretar intervalos de confianza usando distribuciones Z y T de Student | [Ver APE 08](https://drive.google.com/file/d/1WDfdJpODP4Tu-k-C6_lokMjZWC2A51TD/view?usp=sharing) |
-| 9️⃣ | ⚙️ **APE09** | Pruebas de hipótesis Z y T, contrastando métricas de el dataset regional y analizando el impacto del tamaño de la muestra sobre el valor-p | [Ver APE 09](https://drive.google.com/file/d/1il0yI7PBZLpCC1tVznO3PZ1woeGEPO9L/view?usp=sharing) |
-| 🔟 | ✏️ **APE10** | Ejecutar e interpretar pruebas de hipótesis para dos muestras (independientes y pareadas) y validar la homocedasticidad con el Test de Levene, dominando el A/B Testing y la Prueba T de Welch | [Ver APE 10](https://drive.google.com/file/d/1il0yI7PBZLpCC1tVznO3PZ1woeGEPO9L/view?usp=sharing) |
+| 6️⃣ | 🧩 **AOE06** | evaluar el comportamiento de variables continuas regionales usando scipy.stats y statsmodels | [Ver APE 06](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad2/APE_007_Normal%20(2).ipynb) |
+| 7️⃣ | 💻 **APE07** | Práctica basada en ABP y ABI con Python para demostrar el Teorema del Límite Central, analizando cómo las medias de muestras de datos regionales de Loja | [Ver APE 07](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad2/APE_008_TLC%20(3).ipynb) |
+| 8️⃣ | 🧠 **APE08** | Práctica basada en ABP y ABI para calcular e interpretar intervalos de confianza usando distribuciones Z y T de Student | [Ver APE 08](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad2/APE_009_Intervalos%20(5).ipynb) |
+| 9️⃣ | ⚙️ **APE09** | Pruebas de hipótesis Z y T, contrastando métricas de el dataset regional y analizando el impacto del tamaño de la muestra sobre el valor-p | [Ver APE 09](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad2/APE09_Interferencia_EstadisticaPruebas_deHip%C3%B3tesis_Param%C3%A9tricas_(Z_y_T)_y%20An%C3%A1lisisdel_Valor-p%20(1).ipynb) |
+| 🔟 | ✏️ **APE10** | Ejecutar e interpretar pruebas de hipótesis para dos muestras (independientes y pareadas) y validar la homocedasticidad con el Test de Levene, dominando el A/B Testing y la Prueba T de Welch | [Ver APE 10](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad2/APE_9_Varianza(ANOVA)%20(1).ipynb) |
 
 </details>
 
