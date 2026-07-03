@@ -3,7 +3,7 @@
 
 </div>
 
-### 📘 Contenidos de los APE de la Unidad
+# 🔒  Contenidos de los APE de la Unidad
 
 ➡️**APE06: Distribuciones Continuas Notables.Tarea**
 
@@ -25,10 +25,10 @@
 
 | Nº | Actividad | Descripción | Enlace |
 |----|------------|-------------|--------|
-| 1️⃣ | 🧩 **Aplicaion de estructuras condicionales en la resolucion de problemas** | APE 1 | [Ver Tarea 1](https://drive.google.com/file/d/19j6dx-yoKMpiOZDX0IXRca-Qc_huWHOa/view?usp=sharing) |
-| 2️⃣ | 💻 **Aplicaion de estructuras repetitivas en la resolucion de problemas** | APE 2 | [Ver Tarea 2](https://drive.google.com/file/d/1mcQ7-DmnYwzUNdr0uI5I10ricC61cxYp/view?usp=sharing) |
-| 3️⃣ | 🧠 **Diferencias entrer los tipos de estructuras condicionales** | AA 1 | [Ver Tarea 3](https://drive.google.com/file/d/1WDfdJpODP4Tu-k-C6_lokMjZWC2A51TD/view?usp=sharing) |
-| 4️⃣ | ⚙️ **Cuadro comparativo entre las estructuras repetitivas** | AA 2 | [Ver Tarea 4](https://drive.google.com/file/d/1il0yI7PBZLpCC1tVznO3PZ1woeGEPO9L/view?usp=sharing) |
+| 6️⃣ | 🧩 **Aplicaion de estructuras condicionales en la resolucion de problemas** | APE 1 | [Ver Tarea 1](https://drive.google.com/file/d/19j6dx-yoKMpiOZDX0IXRca-Qc_huWHOa/view?usp=sharing) |
+| 7️⃣ | 💻 **Aplicaion de estructuras repetitivas en la resolucion de problemas** | APE 2 | [Ver Tarea 2](https://drive.google.com/file/d/1mcQ7-DmnYwzUNdr0uI5I10ricC61cxYp/view?usp=sharing) |
+| 8️⃣ | 🧠 **Diferencias entrer los tipos de estructuras condicionales** | AA 1 | [Ver Tarea 3](https://drive.google.com/file/d/1WDfdJpODP4Tu-k-C6_lokMjZWC2A51TD/view?usp=sharing) |
+| 9️⃣ | ⚙️ **Cuadro comparativo entre las estructuras repetitivas** | AA 2 | [Ver Tarea 4](https://drive.google.com/file/d/1il0yI7PBZLpCC1tVznO3PZ1woeGEPO9L/view?usp=sharing) |
 
 </details>
 
