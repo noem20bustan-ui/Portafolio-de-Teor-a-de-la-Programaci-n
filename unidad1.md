@@ -34,6 +34,12 @@
 | 4️⃣ | ⚙️ **APE05** |Modelar fenómenos con distribuciones binomial y de Poisson mediante scipy.stats. | [Ver APE05](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad1/APE_06__GrupoD.ipynb) |
 ---
 
+**## 📚 Evaluación Sumativa Unidad 01 
+
+| Nº | Actividad | Descripción | Enlace |
+|----|------------|-------------|--------|
+| 1️⃣ | 🧩 **EVALUACION** | EVA y requisitos de entrega para la evaluación. | [Ver EVALUACION ](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/blob/main/unidad1/APE00.ipynb) |
+
 ## ⚠️ Principales Dificultades Detectadas
 Durante el desarrollo de esta unidad, una de las principales dificultades fue **comprender** cómo representar situaciones reales mediante modelos probabilísticos adecuados. Al inicio era complejo identificar el espacio muestral, los eventos y las diferentes formas de calcular probabilidades según el contexto del problema.
 
