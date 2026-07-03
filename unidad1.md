@@ -22,7 +22,8 @@
  
 
 ---
-## 📚 APES entregados  
+<details>
+<summary><h2>📚 APES entregados </h2></summary>
 
 | Nº | Actividad | Descripción | Enlace |
 |----|------------|-------------|--------|
@@ -32,14 +33,21 @@
 | 4️⃣ | ⚙️ **APE03** |Modelado fenómenos reales y clasificacion de variables discretas y continuas mediante funciones PMF, PDF y CDF | [Ver APE03](https://drive.google.com/file/d/111MfQ9oO4RabY0mmf6SDrkK2UgdKd1D-/view?usp=sharing) |
 | 5️⃣ | ⚙️ **APE04** |La esperanza y varianza con scipy.stats, aplicando análisis de tendencia central y dispersión a los conjuntos de datos | [Ver APE04](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad1/Captura%20de%20pantalla%202026-07-02%20100540.png) |
 | 6️⃣ | ⚙️ **APE05** |Modelar fenómenos con distribuciones binomial y de Poisson mediante scipy.stats. | [Ver APE05](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad1/APE_06__GrupoD.ipynb) |
+
+</details>
+
 ---
 
-## 📚 Evaluación Sumativa Unidad 01 
+<details>
+<summary><h2>📚 Evaluación Sumativa Unidad 01</h2></summary>
 
 | Nº | Actividad | Descripción | Enlace |
 |----|------------|-------------|--------|
 | 1️⃣ | 🧩 **EVALUACION** | EVA y requisitos de entrega para la evaluación. | [Ver EVALUACION ](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad1/Examen_Unidad1_Final(1)%20(1).ipynb) |
+</details>
 
+ ---
+ 
 ## ⚠️ Principales Dificultades Detectadas
 Durante el desarrollo de esta unidad, una de las principales dificultades fue **comprender** cómo representar situaciones reales mediante modelos probabilísticos adecuados. Al inicio era complejo identificar el espacio muestral, los eventos y las diferentes formas de calcular probabilidades según el contexto del problema.
 
