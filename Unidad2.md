@@ -21,7 +21,7 @@
 
 
 <details>
-<summary><h2>📚 4. Tareas entregadas</h2></summary>
+<summary><h2>📚 APES Entregados</h2></summary>
 
 | Nº | Actividad | Descripción | Enlace |
 |----|------------|-------------|--------|
@@ -34,27 +34,34 @@
 </details>
 
 ---
+<details>
+<summary><h2>📚 Evaluación Sumativa Unidad 02</h2></summary>
 
+| Nº | Actividad | Descripción | Enlace |
+|----|------------|-------------|--------|
+| 1️⃣ | 🧩 **EVALUACION** | Aplicaion de inferencia estadística paramétrica (pruebas de hipótesis, valor-p, A/B Testing y ANOVA) a datos del Proyecto Integrador| [Ver EVALUACION ](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/tree/main/unidad1) |
+</details>
+
+ ---
 
 # ⚠️ Principales dificultades detectadas
 
-Durante esta unidad, la principal dificultad se centró en la comprensión del funcionamiento de los **contadores y acumuladores**.  
-Entender su lógica fue un desafío, porque su comportamiento y la acción que ejecutaban dependen directamente de la **ubicación estratégica** que se les asigna dentro de la estructura de control repetitiva (el bucle).
+Durante esta unidad, la principal dificultad se centró en la transición de la estadística descriptiva hacia la inferencia estadística paramétrica, específicamente en la correcta selección y configuración de los modelos.
+
+Determinar si una variable continua se ajusta fielmente a una distribución normal mediante pruebas de bondad de ajuste, e identificar con certeza la distribución adecuada ($z$, $t$-Student, $\chi^2$ o $F$-Fisher) según las características del dataset regional (tamaño de la muestra y varianza conocida o desconocida), fue la parte mas dificil.
 
 ---
 
-# 💭 Reflexión Mejorada: Aprendizaje y Áreas de Oportunidad
+# 💭 Reflexión : Aprendizaje y Áreas de Oportunidad
 
-Durante esta unidad, aprendí que las **estructuras repetitivas (bucles)** son un componente fundamental en el desarrollo de código.  
-Es crucial dominar cómo y cuándo utilizar un **bucle, un contador y un acumulador**, ya que usar correctamente estos elementos determina la ejecución eficiente del programa.
+Durante esta unidad, aprendí que la estadística inferencial y las pruebas de hipótesis son herramientas clave para tomar decisiones reales basadas en datos y no en suposiciones.
 
-También comprendí que las **estructuras condicionales** son esenciales, pues actúan como herramientas que permiten al programa tomar decisiones o ejecutar acciones distintas dependiendo de si una determinada situación se cumple o no.
+Entendí que para comparar grupos de datos de forma correcta, primero debo definir muy bien qué quiero probar (las hipótesis nula y alternativa) y verificar que los datos cumplan con ciertas condiciones antes de aplicar pruebas como ANOVA o la T de Student. Esto me ayuda a asegurar que los resultados que arroja mi código sean realmente válidos y confiables.
 
-Una de mis mayores fortalezas durante este periodo fue la facilidad para **identificar los datos de entrada y salida**, así como la habilidad progresiva para determinar qué tipo de bucle o condicional usar en cada situación específica.
+También comprendí que el valor-p y los intervalos de confianza trabajan en equipo: el valor-p me ayuda a saber si los resultados son estadísticamente significativos, mientras que los intervalos me muestran qué tan precisa es la estimación y cuál es su margen de error.
 
-Sin embargo, aún debo mejorar mi **tiempo de desarrollo de los programas**.  
-Además, necesito incrementar la rapidez y la certeza al momento de identificar el uso adecuado de un **contador frente a un acumulador** en un problema dado.
+Sin embargo, todavía tengo que mejorar mi agilidad al aplicar e interpretar las pruebas de Tukey (Post-Hoc) para saber exactamente qué grupos son diferentes cuando un ANOVA sale positivo. Además, necesito ser más rápida al diferenciar si un resultado.
 
 ---
 
-> 📘 *Portafolio Académico — Matemáticas Discretas — Universidad Nacional de Loja*
+> 📘 *Portafolio Académico — Teoría de la Distribución y Probabilidad — Universidad Nacional de Loja*
