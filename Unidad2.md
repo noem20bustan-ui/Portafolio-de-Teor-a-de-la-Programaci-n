@@ -65,3 +65,9 @@ Sin embargo, todavía tengo que mejorar mi agilidad al aplicar e interpretar las
 ---
 
 > 📘 *Portafolio Académico — Teoría de la Distribución y Probabilidad — Universidad Nacional de Loja*
+
+<div align="center">
+
+✨ *Fin de la Unidad 2* ✨  
+
+</di
