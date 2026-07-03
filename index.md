@@ -32,7 +32,7 @@
 |-------|------|--------|
 | 🧩 Unidad 1 | Fundamentos de la Programación | 👉 [Ver Unidad 1](unidad1.md) |
 | 🧮 Unidad 2 | Estructuras y Control de Flujo | 👉 [Ver Unidad 2](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/blob/main/Unidad2.md)|
-| 🧠 Unidad 3 | Funciones, Arreglos y Modularidad | 👉 [Ver Unidad 3](unidad3_carpeta/unidad3.md)|
+| 🧠 Unidad 3 | Próximamente | 👉 |
 
 ---
 
