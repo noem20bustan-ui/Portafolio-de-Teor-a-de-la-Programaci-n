@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧩 Unidad 3 — LET DE LOS GRANDES NÚMEROS 
+# 🧩 Unidad 3 — LEY DE LOS GRANDES NÚMEROS 
 
 ---
 
