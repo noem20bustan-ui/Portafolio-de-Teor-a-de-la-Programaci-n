@@ -30,9 +30,9 @@
 
 | Unidad | Tema | Enlace |
 |-------|------|--------|
-| 🧩 Unidad 1 | Fundamentos de la Programación | 👉 [Ver Unidad 1](unidad1.md) |
-| 🧮 Unidad 2 | Estructuras y Control de Flujo | 👉 [Ver Unidad 2](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/blob/main/Unidad2.md)|
-| 🧠 Unidad 3 | Próximamente | 👉 |
+| 🧩 Unidad 1 | MODELOS PROBABILÍSTICOS | 👉 [Ver Unidad 1](unidad1.md) |
+| 🧮 Unidad 2 | Grupos de Variables Aleatorias. Funciones de una Variable Aleatoria | 👉 [Ver Unidad 2](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Programaci-n/blob/main/Unidad2.md)|
+| 🧠 Unidad 3 | Ley de los grandes Números | 👉[Ver Unidad 3](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/Unidad3.md) |
 
 ---
 
