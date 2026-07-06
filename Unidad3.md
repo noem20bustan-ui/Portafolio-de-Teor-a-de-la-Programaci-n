@@ -65,12 +65,12 @@ Sin embargo, aún debo mejorar mi tiempo de desarrollo al programar las simulaci
 ---
 
 
-> 🌸 *Este es el final de un capitulo. GRACIAS ING.*  
+> 🌸 *Este es el final de un capitulo.*  
 
 ---
 
 <div align="center">
 
-✨ *Fin de la Unidad 1* ✨  
+✨ *MUCHAS GRACIAS INGENIERO* ✨  
 
 </div>
